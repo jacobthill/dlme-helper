@@ -1,0 +1,2079 @@
+en: (count: ['Michigan', 'Germany', 'Turkey', 'Prussia (Germany)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Morocco', 'Wazzan (Morocco)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)', 'Mecca (Saudi Arabia)', 'Saudi Arabia'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Saudi Arabia', 'Medina (Saudi Arabia)', 'Mecca (Saudi Arabia)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)', 'Turkey'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Saudi Arabia', 'Medina (Saudi Arabia)', 'Mecca (Saudi Arabia)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Islamic Empire', 'Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Islamic Empire', 'Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Africa', 'Asia', 'Middle East', 'Islamic countries', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Arab countries', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire', 'Islamic empire'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)', 'aat'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Turkey', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan', 'Turkey'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Saudi Arabia', 'Mecca (Saudi Arabia)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Egypt', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Middle East', 'Africa, North', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iraq', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Middle East', 'Africa, North', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Asia', 'Africa', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Earth (Planet)', 'Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Middle East', 'Africa, North', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Sirius', 'Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Egypt', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Syria', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Mali', 'Sudan (Region)', 'Tombouctou (Mali)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)', 'Egypt'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'India', 'Mogul Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Saudi Arabia', 'Medina (Saudi Arabia)', 'Mecca (Saudi Arabia)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Saudi Arabia', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Israel', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)', 'Iran'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Israel', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Mediterranean Region; Mediterranean Sea', 'Byzantine Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Moon', 'Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Middle East', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Turkish prose literature', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ethiopia', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Iran', 'Africa, North', 'Middle East', 'Spain', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Saudi Arabia', 'Medina (Saudi Arabia)', 'Mecca (Saudi Arabia)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Middle East', 'Africa, North', 'Spain', 'Ann Arbor (Michigan)', 'Islamic empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Syria', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Turkey', 'Slovakia', 'Hungary', 'Esztergom (Hungary)', 'Nové Zámky (Slovakia)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Moon', 'Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Morocco', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Egypt', 'Cairo (Egypt)', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Golconda (India)', 'Mogul Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'India', 'Ann Arbor (Michigan)', 'aat (India)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Egypt', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Turkey', 'Islamic Empire', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Africa, North', 'Middle East', 'Spain', 'Ann Arbor (Michigan)', 'Islamic Empire'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Middle East', 'Africa, North', 'Spain', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Turkey', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Michigan', 'Ann Arbor (Michigan)'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+en: (count: ['Ann Arbor (Michigan)', 'Michigan'])
+
+1039 of 1039 records have the cho_spatial value

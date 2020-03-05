@@ -1,0 +1,2897 @@
+en: (count: ['Heyworth-Dunne, J. former owner', 'ابن مسكويه، احمد بن محمد', 'Ibn Miskawayh, Aḥmad ibn Muḥammad'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Aḥmad ibn Abī al-Qāsim, scribe', 'Abū Zayd al-Fāsī, ʻAbd al-Raḥmān ibn ʻAbd al-Qādir'])
+
+ar-Arab: (count: ['احمد بن ابي القاسم, ناسخ', 'ابو زيد الفاسي، عبد الرحمن بن عبد القادر'])
+
+en: (count: ['ʻAbd al-Fattāḥ ibn ʻAbd Allāh al-Qaysī, scribe'])
+
+ar-Arab: (count: ['عبد الفتاح بن عبد الله القيسي، ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hacı İbrahim bin Hacı Mehmet, scribe'])
+
+ar-Arab: (count: ['حاجى ابراهيم بن حاجى محمد, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Reşit, former owner'])
+
+ar-Arab: (count: ['مصطفى رشيد, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Qādirī, Muḥammad'])
+
+ar-Arab: (count: ['قادرى، محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['ʻAbd al-Laṭīf ibn Muṣṭafá, scribe'])
+
+ar-Arab: (count: ['عبد اللطيف بن مصطفى, ناسخ'])
+
+en: (count: ['Darzade Mehmet bin Abdürrahman, scribe'])
+
+ar-Arab: (count: ['طار زاده محمد بن عبد الرحمن, ناسخ'])
+
+en: (count: ['Schulte, Frank J., former owner'])
+
+en: (count: ['Aḥmad ibn Faraj Allāh ibn Aḥmad, scribe'])
+
+ar-Arab: (count: ['احمد بن فرج الله بن احمد، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd Allāh ibn ʻAbd al-Qādir, former owner', 'Aḥmad Khayyir ibn Muḥammad ʻĀrif, former owner', 'ʻAbd al-Ghaffār ibn Sinān, scribe', 'Ibn al-Ḥājib, ʻUthmān ibn ʻUmar'])
+
+ar-Arab: (count: ['عبد الله بن عبد القادر، مالك سابق', 'احمد خير بن محمد عارف، مالك سابق', 'عبد الغفار بن سنان، ناسخ', 'ابن الحاجب، عثمان بن عمر'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Nawājī, Muḥammad ibn Ḥasan'])
+
+ar-Arab: (count: ['نواجي، محمد بن حسن'])
+
+en: (count: ['Muḥammad ibn Muṣṭafá al-Qādirī, former owner', 'ʻAlī ibn al-Ḥasan ibn Muḥammad al-Barhamtūshī , scribe'])
+
+ar-Arab: (count: ['محمد بن مصطفى القادري, مالك سابق', 'علي بن الحسن بن محمد البرهمتوشي, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Naṣīr al-Dīn ʻIṣmat Samarqandī', 'Kamāl Khujandī', 'Ḥāfiẓ'])
+
+ar-Arab: (count: ['نصير الدين عصمت سمرقندى', 'كمال خجندى', 'حافظ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Mahmut bin Sevindik, scribe'])
+
+ar-Arab: (count: ['محمود بن سوندك, ناسخ'])
+
+en: (count: ['ʻAbd al-Raḥmān ibn Muḥammad al-Minshāwī, scribe'])
+
+ar-Arab: (count: ['عبد الرحمن بن محمد المنشاوي, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yārī al-Haravī, scribe', 'Jāmī'])
+
+ar-Arab: (count: ['يارى الهروى, ناسخ', 'جامى'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Halil bin Mehmet, scribe'])
+
+ar-Arab: (count: ['خليل بن محمد, ناسخ'])
+
+en: (count: ['Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['شرف الدين محمد بن سعيد البوصيري'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ibn ʻAlī Quṭb al-Dīn al-Yazdī, scribe'])
+
+ar-Arab: (count: ['ابن على قطب الدين اليزدى, ناسخ'])
+
+en: (count: ['Derviş Mehmet, scribe', 'Muttaqī, ʻAlī ibn ʻAbd al-Malik', 'Ṣafī, ʻAlī ibn Ḥusayn Kāshifī'])
+
+ar-Arab: (count: ['درويش محمد, ناسخ', 'متقي، علي بن عبد الملك', 'صفى, على بن حسين كاشفى'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Taqī al-Dīn al-Ḥiṣnī al-Ḥusaynī al-Shāfʻī, former owner', 'Ibn al-Ṣārim, Abū Bakr ibn Aḥmad, scribe', 'ʻUnqūd fī al-naẓm al-ʻuqūd', 'Mawṣilī, Muḥammad ibn al-Ḥusayn'])
+
+ar-Arab: (count: ['تقي الدين الحصني الحسيني الشافعي، مالك سابق', 'ابن الصارم، ابو بكر بن احمد، ناسخ', 'عنقود في النظم العقود', 'موصلي, محمد بن الحسين'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, patron, former owner'])
+
+en: (count: ['Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf', 'Qūshjī, ʻAlī ibn Muḥammad'])
+
+ar-Arab: (count: ['جرجاني، علي بن محمد، السيد الشريف', 'قوشجي، علي بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Naima, Mustafa, scribe'])
+
+ar-Arab: (count: ['نعيما، مصطفى، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Qājār, Fatḥ ʻAlī Shāh, Shah of Iran, former owner, patron', 'Sāravī, Muḥammad Fatḥ Allāh ibn Muḥammad Taqī, scribe'])
+
+ar-Arab: (count: ['قاجار، فتح على شاه، شاه ايران, مالك سابق, راع', 'ساروى، محمد فتح الله ابن محمد تقى, ناسخ'])
+
+en: (count: ['Ḥasan ibn Muḥammad al-Kattānī, scribe'])
+
+ar-Arab: (count: ['حسن بن محمد الكتاني، ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', "O'Kinealy, J. former owner"])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hattatzade Yahya Rayik, former owner', 'Shujāʻ al-Dīn Muḥammad Shīrāzī, scribe'])
+
+ar-Arab: (count: ['خطاط زاده يحيى رائق, مالك سابق', 'شجاع الدين محمد شيرازى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mehmet Nailî, former owner'])
+
+ar-Arab: (count: ['محمد نائلى, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Maqṣūd ʻAlī Shīrāzī, scribe'])
+
+ar-Arab: (count: ['مقصود على شيرازى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Abdülkerim bin Mehmet, former owner', 'Mehmet Hayri, former owner'])
+
+ar-Arab: (count: ['عبد الكريم بن محمد, مالك سابق', 'محمد خيرى, مالك سابق'])
+
+en: (count: ['Ḥasbī Sulaymān ibn Aḥmad ibn Ḥasan al-Arzanjānī, scribe'])
+
+ar-Arab: (count: ['حسبى سليمان بن احمد بن حسن الارزنجانى، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Nāʻil Ṣuḥufī, scribe'])
+
+ar-Arab: (count: ['نائل صحفى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Aḥmad Pāshā, patron'])
+
+ar-Arab: (count: ['احمد پاشا راع'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd al-Ghanī, scribe'])
+
+ar-Arab: (count: ['عبد الغنى، ناسخ'])
+
+en: (count: ['Muḥammad ibn al-Shaykh Muḥammad, scribe'])
+
+ar-Arab: (count: ['محمد بن الشيخ محمد, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['ʻAlā’ī al-Dīn ibn Shams al-Dīn Muḥammad ibn Shahīd al-Dīn Aḥmad ibn al-Sa‘īdī, former owner', 'Muḥammad ibn Muḥammad al-Baladī, scribe'])
+
+ar-Arab: (count: ['علائي الدين بن شمس الدين محمد بن شهيد الدين احمد بن السعيدي, مالك سابق', 'محمد بن محمد البلدي, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Satafī, Sulaymān ibn Yūnus, scribe'])
+
+ar-Arab: (count: ['ستفي, سليمان بن يونس, ناسخ'])
+
+en: (count: ['Bashtakī, Muḥammad ibn Ibrāhīm, compiler'])
+
+ar-Arab: (count: ['بشتكي، محمد بن ابراهيم, مصنف'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'عبد البهاء', 'ʻAbduʼl-Bahá'])
+
+en: (count: ['Yahya bin Mustafa Efendi, former owner', 'ʻAbd al-Raḥīm ibn Iskandar, scribe', 'Kemalpaşazade'])
+
+ar-Arab: (count: ['يحيى بن مصطفى افندى، مالك سابق', 'عبد الرحيم بن اسكندر، ناسخ', 'ابن كمال باشا،'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Pearse, George Godfrey, former owner', 'Nuttall, Frank E., former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Jammāʻīlī, ʻAbd al-Ghanī ibn ʻAbd al-Wāḥid, former owner, scribe', 'Silafī, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['جمائلي، عبد الغني بن عبد الواحد، مالك سابق، ناسخ', 'سلفي، احمد بن محمد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Bāqī al-Bakrī al-Ṣiddīqī, former owner', 'ʻAbd al-Wahhāb Sulaymān scribe'])
+
+ar-Arab: (count: ['عبد الباقي البكري الصديقي، مالك سابق', 'عبد الوهاب سليمان، ناسخ'])
+
+en: (count: ['Dādasī, ʻAlī ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['علي بن محمد الدادسي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Sulṭān ʻAlī, scribe, calligrapher'])
+
+ar-Arab: (count: ['سلطان علي، ناسخ، خطاط'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Murād Aṣl ibn ʻAbd Allāh, scribe, former owner'])
+
+ar-Arab: (count: ['مراد اصل بن عبد الله، ناسخ، مالك سابق'])
+
+en: (count: ['Qārī al-Harawī, ʻAlī ibn Sulṭān Muḥammad'])
+
+ar-Arab: (count: ['قاري الهروي، علي بن سلطان محمد'])
+
+en: (count: ['ʻAbd al-Raḥīm ibn Ḥasan ibn Ibrāhīm, scribe'])
+
+ar-Arab: (count: ['عبد الرحيم بن حسن بن ابراهيم، ناسخ'])
+
+en: (count: ['Abū al-Saʻūd Muḥammad ibn Muḥammad', 'Hisâlî Abdurrahman Çelebî bin Süleyman bin Eyüp Sârûhânî'])
+
+ar-Arab: (count: ['ابو السعود محمد بن محمد', 'خصالى عبد الرحمن چلبى بن سليمان بن ايوب صاروخانى'])
+
+en: (count: ['Ahmet bin Recep bin Bayazit Karamani, scribe', 'Abū al-Saʻūd Muḥammad ibn Muḥammad', 'Ataullah Mehmet Efendi'])
+
+ar-Arab: (count: ['احمد بن رجب بن بايزيد القرمانى، ناسخ', 'ابو السعود محمد بن محمد', 'عطاء الله محمد افندى'])
+
+en: (count: ['Ataullah Mehmet Efendi'])
+
+ar-Arab: (count: ['عطاء الله محمد افندى'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Necl-i Meşrepzade Ali Raik, scribe'])
+
+ar-Arab: (count: ['نجل مشرب زاده على رائق, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Maghnīsāwī, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['مغنيساوي، احمد بن محمد،'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Yamanī ibn Muḥammad ibn al-Ḥājj ʻAlī, former owner', 'Ḥusayn ibn Muḥammad al-Ḥusaynī al-Khādim, former owner'])
+
+ar-Arab: (count: ['محمد يمنى بن محمد بن الحاج على, مالك سابق', 'حسين بن محمد الحسينى الخادم, مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Raḥmān ibn Ibrāhīm ʻAbd Allāh al-Shaybīnī, scribe'])
+
+ar-Arab: (count: ['عبد الرحمن بن ابراهيم عبد الله الشيبيني، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Âli Paşa, former owner', 'Caulfeild, James, former owner', 'Navvāb Shīr Jang Bahādur, patron, former owner'])
+
+ar-Arab: (count: ['عالى پاشا، مالك سابق', 'نواب شير جنگ بهادر، راع، مالك سابق'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ahmet bin Hızır, scribe'])
+
+ar-Arab: (count: ['احمد بن خضر، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Jāmī'])
+
+ar-Arab: (count: ['جامي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Zakarīyā Samarqandī, scribe'])
+
+ar-Arab: (count: ['محمد زكريا سمرقندى، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Muḥammad Jaʻfar ibn Muḥammad Ādam, scribe'])
+
+ar-Arab: (count: ['محمد جعفر بن محمد آدم, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mīrzā Āqā Khān Nūrī, Naṣr Allāh, Iʻtimād al-Dawlah, Ṣadr-i Aʻẓam, patron, former owner', 'Muḥammad Ḥusayn al-Shīrāzī, scribe'])
+
+ar-Arab: (count: ['ميرزا آقا خان نورى، نصر الله، اعتماد الدوله، صدر اعظم، راع، مالك سابق', 'محمد حسين الشيرازى، ناسخ'])
+
+en: (count: ['Ahmet Müeyyet Azamzade, former owner', 'Mustafa bin İbrahim Şeyhbenderzade, former owner', 'Suyūṭī'])
+
+ar-Arab: (count: ['احمد مؤيد عظم زاده، مالك سابق', 'مصطفى بن ابراهيم شيخبندر زاده, مالك سابق', 'سيوطي'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Qalaṣādī, Abū al-Ḥasan ʻAlī ibn Muḥammad', 'Karpinski, Louis Charles, former owner', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أبو الحسن علي بن محمد القلصادي'])
+
+en: (count: ['Ibn al-ʻArabī', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['ابن العربي'])
+
+en: (count: ['Qāḍī Zādah, Mūsá ibn Muḥammad', 'Meyerhof, Max, former owner', 'Qāḍīʹzādah, Mūsá ibn Muḥammad', 'Euclid', 'Samarqandī, Muḥammad ibn Ashraf'])
+
+ar-Arab: (count: ['موسى بن محمد قاضي زاده', 'محمد بن أشرف السمرقندي'])
+
+en: (count: ['Ibn Abī Jumhūr al-Aḥsāʼī, Muḥammad ibn ʻAlī', 'Heyworth-Dunne, J. former owner'])
+
+ar-Arab: (count: ['ابن ابي جمهور الاحسائي، محمد بن علي'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Marghīthī, Muḥammad ibn Saʻīd al-Sūsī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمد بن سعيد السوسي المرغيثي'])
+
+en: (count: ['Khawānikī, Ramaḍān ibn Ṣāliḥ al-Safaṭī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['رمضان بن صالح السفطي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hakkakzade Hafız Feyzullah, calligrapher'])
+
+ar-Arab: (count: ['حكاك زاده حافظ فيض الله، خطاط'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Jawharī, Ismāʻīl ibn Ḥammād'])
+
+ar-Arab: (count: ['جوهري، اسماعيل بن حماد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAlī Ḥāmid al-Mālikī, former owner'])
+
+ar-Arab: (count: ['علي حامد المالكي، مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Muṣṭafá Ibrāhīm, scribe'])
+
+ar-Arab: (count: ['مصطفى ابراهيم، ناسخ'])
+
+en: (count: ['Ṣāliḥ ibn Tāj al-Dīn ibn Aḥmad ibn Yāsīn al-Wāṭī al-Mālikī'])
+
+ar-Arab: (count: ['صالح بن تاج الدين بن احمد بن يس الواطي المالكي'])
+
+en: (count: ['ʻAyyād al-Maḥallī, Aḥmad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد بن محمد عياد المحلي'])
+
+en: (count: ['ʻAyyād al-Maḥallī, Aḥmad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد بن محمد عياد المحلي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAlī al-Batanūnī al-Mālikī, scribe'])
+
+ar-Arab: (count: ['علي البتنوني المالكي، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ibrāhīm ibn Muṣṭafá, copyist', 'ʻAbd Allāh ibn al-ʻAbbās'])
+
+ar-Arab: (count: ['ابراهيم بن مصطفى, ناسخ', 'عبد الله بن العباس'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Muḥammad ibn Yūsuf ibn ʻAlī al-Qāhirī, scribe'])
+
+ar-Arab: (count: ['محمد بن يوسف بن علي القاهري، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Muḥammad ibn ‘Alī ibn Abī ‘Abd Allah al-Rābiṭī al-Tilimsānī, scribe'])
+
+ar-Arab: (count: ['محمد بن علي بن ابي عبد الله الرابطي التلمساني, ناسخ'])
+
+en: (count: ['Jighmīnī, Maḥmūd ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمود بن محمد الجغميني'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻIwaḍ al-Rashīdī, scribe'])
+
+ar-Arab: (count: ['عوض الرشيدي، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Kūm al-Rīshī, Shihāb al-Dīn Aḥmad ibn Ghulām Allāh', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['شهاب الدين أحمد بن غلام الله الكوم الريشي'])
+
+en: (count: ['Ibn Ghāzī, Muḥammad ibn Aḥmad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمد بن أحمد بن غازي'])
+
+en: (count: ['Khalīl ibn Ḥusayn ibn Khalīl ibn Muḥammad ibn Ḥasan, scribe'])
+
+ar-Arab: (count: ['خليل بن حسين بن خليل بن محمد بن حسن, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Muḥammad ibn ʻUmar al-Rifāʻī, scribe'])
+
+ar-Arab: (count: ['محمد بن عمر الرفاعي، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd'])
+
+ar-Arab: (count: ['بوصيري، شرف الدين محمد بن سعيد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm', 'Hamadhānī, ʻAlī ibn Muḥammad'])
+
+ar-Arab: (count: ['صدر الدين شيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ṣadr al-Dīn al-Shīrāzī, Muḥammad ibn Ibrāhīm', 'Heyworth-Dunne, J. former owner'])
+
+ar-Arab: (count: ['صدر الدين الشيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Lādhiq̄ī, Shams al-Dīn Muḥammad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['شمس الدين محمد بن محمد اللاذقي'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Dimishqī, ʻAbd al-Laṭīf ibn Aḥmad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['عبد اللطيف بن أحمد الدمشقي'])
+
+en: (count: ['Karpinski, Louis Charles, former owner', 'Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Salīm al-Ṭībbī, scribe, former owner'])
+
+ar-Arab: (count: ['سليم الطيبي, ناسخ, مالك سابق'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner', 'Ibn al-Majdī, Shihāb al-Dīn Abū al-ʻAbbās Aḥmad ibn Rajab al-Qāhirī'])
+
+ar-Arab: (count: ['شهاب الدين أبو العباس أحمد بن رجب القاهري بن المجدي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Aḥmad ibn Qāsim', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد بن قاسم'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Kāshifī, Ḥusayn Vāʻiẓ'])
+
+ar-Arab: (count: ['كاشفي، حسين واعظ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', "O'Kinealy, J. former owner", 'ممتاز حسين خان, مالك سابق', 'Mumtāz Ḥusayn Khān, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Veli bin Şaban, scribe'])
+
+ar-Arab: (count: ['ولى بن شعبان، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Abū Aḥmad ibn ʻAbd Allāh al-Farāhī, scribe', 'Ghāzī Qulī Arghūn, scribe'])
+
+ar-Arab: (count: ['ابو احمد ابن عبد الله الفراهى، ناسخ', 'غازی قلی ارغون، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Sulṭān Muḥammad Tāyabādī, scribe'])
+
+ar-Arab: (count: ['سلطان محمد تایبادی، ناسخ'])
+
+en: (count: ['Ahmet bin Hızır, scribe'])
+
+ar-Arab: (count: ['احمد بن خضر, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Reşit, former owner', 'Ahmet İmamzade el-Kastamoni, scribe'])
+
+ar-Arab: (count: ['مطفى رشيد، مالك سابق', 'احمد امام زاده القسطمونى، ناسخ'])
+
+en: (count: ['Osman Mustafa bin Pir Ahmet Dede, former owner', 'Abdullah bin Mehmet Sait, former owner'])
+
+ar-Arab: (count: ['عثمان بن مصطفى بن پير احمد ده ده, مالك سابق', 'عبد الله بن محمد سعيد, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd al-Salām ibn ʻAbd al-Ṣamad al-Marghīnānī al-Kāshgharī, scribe'])
+
+ar-Arab: (count: ['عبد السلام ابن عبد الصمد المرغينانى الكاشغرى, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Muṣṭafá ibn Khiḍr, scribe'])
+
+ar-Arab: (count: ['مصطفى بن خضر، ناسخ'])
+
+en: (count: ['Mehmet Sait Mevla Hasan Hilmi, former owner'])
+
+ar-Arab: (count: ['محمد سعيد مولى حسن حلمي, ناسخ'])
+
+en: (count: ['Sakkākī, Yūsuf ibn Abī Bakr', 'Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd al-Raḥmān'])
+
+ar-Arab: (count: ['سكاكي، يوسف بن ابي بكر', 'قزويني، جلال الدين محمد بن عبد الرحمن،'])
+
+en: (count: ['Kemalpaşazade'])
+
+ar-Arab: (count: ['ابن كمال باشا، احمد بن سليمان'])
+
+en: (count: ['ابن سينا،', 'Avicenna', 'Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Minkarizade Yahya Efendi', 'ʻAbd al-Laṭīf Shāh Ḥusayn al-ʻAjamī', 'ʻAbd al-Raḥmān al-Kurdī', 'Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad', 'Muḥammad al-Tibrīzī al-Ḥanafī'])
+
+ar-Arab: (count: ['منقارى زاده يحيى افندى', 'عبد اللطيف شاه حسين عجمى', 'عبد الرحمن الكردي', 'ايجي، عضد الدين عبد الرحمن بن احمد', 'محمد التبريزي الحنفي'])
+
+en: (count: ['Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad', 'Muḥammad al-Tibrīzī al-Ḥanafī'])
+
+ar-Arab: (count: ['ايجي، عضد الدين عبد الرحمن بن احمد', 'محمد التبريزي الحنفي'])
+
+en: (count: ['Aḥmad ibn Muḥammad al-Izmīrī, scribe', 'Mīrzā Jān, Ḥabīb Allāh', 'Yazdī, ʻAbd Allāh ibn al-Ḥusayn'])
+
+ar-Arab: (count: ['احمد بن محمد الازميري، ناسخ', 'ميرزا جان، حبيب الله', 'يزدي، عبد الله بن الحسين'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Muḥammad ibn Maḥmūd, scribe'])
+
+ar-Arab: (count: ['محمد بن محمود, ناسخ'])
+
+en: (count: ['Zakarīyā ibn Bayrām, former owner'])
+
+ar-Arab: (count: ['زكريا بن بيرام, مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Muṣṭafá al-Ḥakīm ibn Aḥmad al-Ḥakīm al-Shāfiʻī al-Miṣrī, scribe', 'Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad'])
+
+ar-Arab: (count: ['مصطفى الحكيم بن احمد الحكيم الشافعي المصري، ناسخ', 'ايجي، عضد الدين عبد الرحمن بن احمد'])
+
+en: (count: ['ʻUmar ibn Muḥammad, former owner', 'Minkarizade Yahya Efendi', 'Chillī, ʻUmar ibn Aḥmad al-Māʼī', 'Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad', 'Muḥammad al-Tibrīzī al-Ḥanafī'])
+
+ar-Arab: (count: ['عمر بن محمد، مالك سابق', 'منقارى زاده يحيى افندى', 'چلى, عمر بن احمد المائى', 'ايجي، عضد الدين عبد الرحمن بن احمد', 'محمد التبريزي الحنفي'])
+
+en: (count: ['دواني، محمد بن اسعد', 'Dawwānī, Muḥammad ibn Asʻad'])
+
+en: (count: ['Aḥmad ibn Ḥasan, scribe'])
+
+ar-Arab: (count: ['احمد بن حسن، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Qāsim Bīk ibn ʻĀdil Bīk, scribe'])
+
+ar-Arab: (count: ['قاسم بيك ابن عادل بيك, ناسخ'])
+
+en: (count: ['Ibn al-Ḥājib, ʻUthmān ibn ʻUmar'])
+
+ar-Arab: (count: ['ابن الحاجب، عثمان بن عمر'])
+
+en: (count: ['Aḥmad ibn Muḥammad al-Shillī, former owner', 'Ibrāhīm ibn Abī al-Qāsim al-Qayrawānī, former owner'])
+
+ar-Arab: (count: ['احمد بن محمد الشلي، مالك سابق', 'ابراهيم بن ابي القاسم القيرواني، مالك سابق'])
+
+en: (count: ['Muḥammad ibn al-Ḥasan al-Tūqātī, collator'])
+
+ar-Arab: (count: ['محمد بن الحسن التوقاتي، مقابل'])
+
+en: (count: ['Taftāzānī, Masʻūd ibn ʻUmar'])
+
+ar-Arab: (count: ['تفتازاني، مسعود بن عمر،'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['ʻAbd al-Qādir al-Musallamī, scribe'])
+
+ar-Arab: (count: ['عبد القادر المسلمي، ناسخ'])
+
+en: (count: ['ʻAlī ibn ʻAbūd ibn Bāḥamdūn, former owner', 'ʻAlī ibn Aḥmad ibn Qāsim al-Munqidhī, former owner', 'Maymūnah bint ʻAbd Allāh ibn ʻAlī ibn Yaḥyá al-Shāmī, former owner', 'ʻAbd Allāh ibn ʻAlī ibn Yaḥyá al-Shāmī, former owner', 'ʻAtīqah bint Aḥmad ibn Yaʻqūb al-Ḥakīm, former owner', 'Āminah bint Aḥmad ibn Yaʻqūb al-Ḥakīm, former owner', 'Aḥmad ibn Yaʻqūb al-Ḥakīm, former owner', 'Muḥammad Sulaymān, scribe, former owner'])
+
+ar-Arab: (count: ['علي بن عبود باحمدون, مالك سابق', 'علي بن احمد بن قاسم المنقذي, مالك سابق', 'ميمونة بنت عبد الله بن علي بن يحيى الشامي, مالك سابق', 'عبد الله بن علي بن يحيى الشامي, مالك سابق', 'عتيقة بنت احمد بن يعقوب الحكيم, مالك سابق', 'آمنة بنت احمد بن يعقوب الحكيم, مالك سابق', 'احمد بن يعقوب الحكيم, مالك سابق', 'محمد سليمان, ناسخ، مالك سابق'])
+
+en: (count: ['Ulugh Beg', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['ألوغ بيك'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Pīr Jalīl Burdahʹlīq, scribe'])
+
+ar-Arab: (count: ['پير جليل برده ليق، ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Kāshifī, Ḥusayn Vāʻiẓ', 'Ḥāfiẓ Abū al-Fatḥ ibn Qāḍī Ḍiyāʼ al-Dīn Muḥammad Rāzī, scribe'])
+
+ar-Arab: (count: ['كاشفي، حسين واعظ', 'حافظ ابو الفتح بن قاضى ضياء الدين محمد رازى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad al-Sāvajī, scribe'])
+
+ar-Arab: (count: ['محمد الساوجي, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'İşkodravi Şerifi Mustafa former owner'])
+
+ar-Arab: (count: ['اشقودره وى شريفى مصطفى , مالك سابق'])
+
+en: (count: ['Mullā Ḥusayn ibn Mullā ʻAlī al-ʻUshārī al-Baghdādī, scribe, collator'])
+
+ar-Arab: (count: ['ملا حسين بن ملا علي العشاري البغدادي, ناسخ, مقابل'])
+
+en: (count: ['Muḥammad al-Khayyāṭ, former owner', 'Khiḍr ibn Yūsuf al-Nābulusī al-ʻAqrabānī, scribe'])
+
+ar-Arab: (count: ['محمد الخياط, مالك سابق', 'خضر بن يوسف النبلسي العقرباني, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ahmet bin İbrahim ül-Üsküdarî, scribe'])
+
+ar-Arab: (count: ['احمد بن ابراهيم الاسكودارى, ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Fayḍ al-Kāshī, Muḥammad ibn Murtaḍá'])
+
+ar-Arab: (count: ['فيض الكاشي، محمد بن مرتضى'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['امين افندى, مالك سابق', 'Emin Efendi, former owner'])
+
+en: (count: ['Derviş İbrahim bin Hafız Halil, calligrapher, scribe'])
+
+ar-Arab: (count: ['دوريش ابراهيم ابن حافظ خليل, خطاط, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Osman, Hâfız, calligrapher'])
+
+ar-Arab: (count: ['حافظ عثمان, خطاط'])
+
+en: (count: ['Aḥmad ibn Muḥammad ibn Mīrzā al-Ḥanafī, scribe'])
+
+ar-Arab: (count: ['احمد بن محمد بن ميرزا الحنفي، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Jazūlī, Muḥammad ibn Sulaymān'])
+
+ar-Arab: (count: ['جزولي، محمد بن سليمان،'])
+
+en: (count: ['Mehmet Derviş el-Amidî, scribe', 'Ibn al-Jazarī, Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['محمد درويش الآمدى، ناسخ', 'ابن الجزري، محمد بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Kebecizade Mehmet Vasfi Efendi, calligrapher, scribe', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['كبجى زاده محمد وصفى افندى، خطاط، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Kemalpaşazade'])
+
+ar-Arab: (count: ['كمال باشازاده،'])
+
+en: (count: ['Uskūbī, Muṣṭafá ibn Muḥammad, scribe'])
+
+ar-Arab: (count: ['اسكوبي، مصطفى بن محمد، ناسخ'])
+
+en: (count: ['Mustafa Hulusi Efendi'])
+
+ar-Arab: (count: ['مصطفى خلوصى افندى'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Maḥmūd ibn Najīb, scribe'])
+
+ar-Arab: (count: ['محمود بن نجيب, ناسخ'])
+
+en: (count: ['ʻAbd Allāh ibn ʻAbd Allāh Ibn Bahāʼ al-Dīn al-ʻUmarī al-Khālidī, former owner', 'Muḥammad al-Anjīrī, former owner', 'ʻImād ibn Muḥamad ʻImād, scribe'])
+
+ar-Arab: (count: ['عبد الله بن عبد الله ابن بهاء الدين العمري الخالدي، مالك سابق', 'محمد الانجیری مالك سابق', 'عماد بن محمد عماد، ناسخ'])
+
+en: (count: ['Aḥmad ibn ʻAbdī, scribe'])
+
+ar-Arab: (count: ['احمد بن عبدى، ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Robert Sumption, former owner'])
+
+en: (count: ['Karpinski, Louis Charles, former owner', 'Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Māridīnī, Jamāl al-Dīn ʻAbd Allāh ibn Khalīl al-Qāhirī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['جمال الدين عبد الله بن خليل القاهري المارديني'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['ʻAbd al-Raḥmān al-Manzalāwī, former owner', 'Aḥmad ibn Abī al-Khayr al-Khawlī, scribe'])
+
+ar-Arab: (count: ['عبد الرحمن المنزلاوي, مالك سابق', 'احمد بن ابي الخير الخولي, ناسخ'])
+
+en: (count: ['Māridīnī, Jamāl al-Dīn ʻAbd Allāh ibn Khalīl al-Qāhirī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['جمال الدين عبد الله بن خليل القاهري المارديني'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Jabartī, Ḥasan, former owner', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['حسن الجبرتي'])
+
+en: (count: ['ʻAlī ibn Muṣṭafá, scribe', 'Qāzābādī, Aḥmad ibn Muḥammad', 'Mīrzā Jān, Ḥabīb Allāh', 'Mullā Ḥanafī'])
+
+ar-Arab: (count: ['علي بن مصطفى، ناسخ', 'قازابادي، احمد بن محمد', 'ميرزا جان، حبيب الله', 'ملا حنفي'])
+
+en: (count: ['Mehmet Şakir, former owner, scribe', 'Mīrzā Jān, Ḥabīb Allāh', 'Mullā Ḥanafī', 'Dawwānī, Muḥammad ibn Asʻad'])
+
+ar-Arab: (count: ['محمد شاكر، مالك سابق، ناسخ', 'ميرزا جان، حبيب الله', 'ملا حنفي', 'دواني، محمد بن اسعد'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Hacı Hasan bin Hacı Osman, scribe'])
+
+ar-Arab: (count: ['حاجى حسن بن حاجى عثمان, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ibrahīm ibn Mājid ibn ‘Abd Allah al-Barādi‘ī al-Ramlī, scribe', 'Muslim ibn al-Ḥajjāj al-Qushayrī'])
+
+ar-Arab: (count: ['ابراهيم بن ماجد بن عبد الله البرادعي الرملي, ناسخ', 'مسلم بن الحجاج القشيري'])
+
+en: (count: ['Muḥammad ibn Muḥammad al-Jabalāwī, scribe'])
+
+ar-Arab: (count: ['محمد بن محمد الجبلاوي, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Ibrāhīm ibn Muṣṭafá, scribe'])
+
+ar-Arab: (count: ['ابراهيم بن مصطفى، ناسخ'])
+
+en: (count: ['Yaḥyá ibn ʻAlī al-Saqaṭī al-Mālaqī, scribe'])
+
+ar-Arab: (count: ['يحيى بن علي السقطي المالقي, ناسخ'])
+
+en: (count: ['ʻAlī ibn Ḥusayn ibn Ḥasan al-Qalbī, scribe'])
+
+ar-Arab: (count: ['علي بن حسين بن حسن القلبي، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Tirmidhī, Muḥammad ibn ʻĪsá'])
+
+ar-Arab: (count: ['محمد بن عيسى الترمذي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Muḥammad Bakhsh ibn Muḥammad ʻAẓīm scribe', 'Sayf Ẓafar ʻAlī Nawbahārī'])
+
+ar-Arab: (count: ['محمد بخش بن محمد عظيم، ناسخ', 'سيف ظفر على نوبهارى'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Muḥammad ibn ʻAlī al-Zardanāwī, scribe', 'Bakrī, Muṣṭafá', 'Ḥamawī, ʻAlī ibn ʻAṭīyah'])
+
+ar-Arab: (count: ['محمد بن علي الزردناوي, ناسخ', 'بكري, مصطفى', 'حموي، علي بن عطية'])
+
+en: (count: ['Muṣṭafá ibn Sayyidī ibn Maḥmūd, scribe'])
+
+ar-Arab: (count: ['مصطفى بن سيدي بن محمود، ناسخ'])
+
+en: (count: ['Ibn al-ʻAṭṭār, Muḥammad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمد بن محمد بن العطار'])
+
+en: (count: ['Muḥammad Amīn ʻĀṭif, former owner', 'Muʼmin ibn Khwājah ibn Mūsá, scribe'])
+
+ar-Arab: (count: ['محمد امين عاطف, مالك سابق', 'مؤمن بن خواجه بن موسى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Niẓām ibn Ḥuwayān al-Bīshkīnī, scribe'])
+
+ar-Arab: (count: ['نظام بن حويان البيشكيني, ناسخ'])
+
+en: (count: ['Aḥmad al-Khāṭif Khayyāṭīʹzādah, former owner'])
+
+ar-Arab: (count: ['احمد الخاطف خياطى زاده, مالك سابق'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mihr ʻAlī Raz̤avī, scribe'])
+
+ar-Arab: (count: ['مهر على رضوى, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mihr ʻAlī Raz̤avī, scribe'])
+
+ar-Arab: (count: ['مهر على رضوى, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Shams al-Dawlah Bahādur Mathūr Jang, former owner'])
+
+ar-Arab: (count: ['شمس الدوله بهادر متهور جنگ, مالك سابق'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mir Jumla, former owner'])
+
+ar-Arab: (count: ['مير جمله, مالك سابق'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mihr ʻAlī Raz̤avī, scribe'])
+
+ar-Arab: (count: ['مهر على رضوى, ناسخ'])
+
+en: (count: ['ʻAlī ibn al-Shaykh ʻAlī al-ʻAmmūrī, scribe'])
+
+ar-Arab: (count: ['علي بن الشيخ علي العموري. ناسخ'])
+
+en: (count: ['Ferruh Yayabaşı b. Mulla Mahmud, patron', 'Muḥammad Ṣalāḥ al-Dīn ibn Muḥyī al-Dīn ibn Khalīl ibn ʻAbd al-Qādir al-Nābulusī, scribe'])
+
+ar-Arab: (count: ['فرخ يايا باشى بن محمود، راع', 'محمد صلاح الدين محيي الدين بن خليل بن عبد القادر النابلسي، ناسخ'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mathurādās Khatrī, scribe'])
+
+ar-Arab: (count: ['متهراداس كهترى, ناسخ'])
+
+en: (count: ['ʻAlī ibn Muḥammad ibn Ḥasan al-Khūrāsgānī, scribe'])
+
+ar-Arab: (count: ['علي بن محمد بن حسن الخوراسكانى، ناسخ'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، former owner', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Mehmet Emin Atıf, former owner', 'Walī ibn Muṣṭafā ibn Isḥaq, scribe'])
+
+ar-Arab: (count: ['محمد امين عاطف, مالك سابق', 'ولي بن مصطفى بن اسحق, ناسخ'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Murtaz̤á ibn Muḥammad, scribe'])
+
+ar-Arab: (count: ['مرتضى بن محمد, ناسخ'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad Uways al-Ṣāliḥ, former owner', 'Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد اويس الصالح, مالك سابق', 'محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['ʻAlī ibn al-Shaykh ʻAlī al-ʻAmmūrī, scribe'])
+
+ar-Arab: (count: ['علي بن الشيخ علي العموري. ناسخ'])
+
+en: (count: ['ʻAbd al-Raḥmān ibn Qāsim al-Malaṭī, scribe'])
+
+ar-Arab: (count: ['عبد الرحمن بن قاسم الملطي، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Bāqī al-Bakrī al-Ṣiddīqī, former owner', 'ʻAlī al-Buyūtī al-Shāfiʻī, scribe'])
+
+ar-Arab: (count: ['عبد الباقي البكري الصديقي، مالك سابق', 'علي البيوتي الشافعي، ناسخ'])
+
+en: (count: ['Muṣṭafá ibn ʻĪsá ibn Aḥmad, scribe'])
+
+ar-Arab: (count: ['مصطفى بن عيسى بن احمد، ناسخ'])
+
+en: (count: ['Lakhmī, al-Ḥasan ibn ʻAlī ibn ʻĪsá ibn al-Ḥasan, scribe'])
+
+ar-Arab: (count: ['لخمي, الحسن بن علي بن عيسى بن الحسين, ناسخ'])
+
+en: (count: ['ʻAṭā al-ʻAlwānī, former owner', 'Kamāl al-Dīn al-Kubaysī, former owner'])
+
+ar-Arab: (count: ['عطا العلواني، مالك سابق', 'كمال الدين الكبيسي، مالك سابق'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Aḥmad ibn Ismāʻīl al-Qādirī al-Jawharī al-Ḥanafī, former owner', 'Aḥmad ibn Mubārakshāh al-Ḥanafī, former owner', 'Jalāl al-Dīn al-Khuwārizmī al-ʻAlawī'])
+
+ar-Arab: (count: ['احمد بن اسماعيل القادري الجوهري الحنفي، مالك سابق', 'احمد بن مباركشاه الحنفي، مالك سابق', 'جلال الدين الخوارزمي العلوي'])
+
+en: (count: ['Tatarzade Mehmet Emin, former owner'])
+
+ar-Arab: (count: ['تاتار زاده محمد امين، مالك سابق'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Ibn al-Saqqā, Muḥammad ibn Muḥammad ibn ‘Alī ibn ‘Umar, copyist, former owner'])
+
+ar-Arab: (count: ['ابن سقا, محمد بن محمد بن علي بن عمر, ناسخ، مالك سابق'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات، ناسخ، مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Muḥammad ibn Sulayman ʻArafāt, scribe, former owner', 'Amīn ibn Muḥammad al-Sārī'])
+
+ar-Arab: (count: ['محمد بن سليمان عرفات, ناسخ, مالك سابق', 'امين بن محمد الساري'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Osman Paşa, patron', 'Mahmut bin İshak Hocası Ahmet Efendi, scribe'])
+
+ar-Arab: (count: ['عثمان پاشا, راع', 'محمود ابن اسحق خواجه سى احمد افندى, ناسخ'])
+
+en: (count: ['Cennetzade İsmail Muhyi bin Mehmet Ragıp, former owner', 'Kadizade Mehmet Erzani, scribe'])
+
+ar-Arab: (count: ['جنت زاده اسماعيل محيى بن محمد راغب، مالك سابق', 'قاضى زاده محمد ارزنى، ناسخ'])
+
+en: (count: ['Muḥammad al-Barakhtī, collator', 'Aḥmad ibn Muḥammad al-Amāsī, scribe, collator'])
+
+ar-Arab: (count: ['محمد البرختي، مقابل', 'احمد بن محمد الاماسي، ناسخ، مقابل'])
+
+en: (count: ['Birgivî Mehmet Efendi', 'Jurjānī, ʻAbd al-Qāhir ibn ʻAbd al-Raḥmān', 'Muṭarrizī, Nāṣir ibn ʻAbd al-Sayyid'])
+
+ar-Arab: (count: ['برکوي، محمد إفندي', 'جرجاني, عبد القاهر بن عبد الرحمن', 'مطرزي، ناصر بن عبد السيد'])
+
+en: (count: ['Ibrāhīm Farīd al-Dīn ibn Ḥājjī ʻAlī al-Arḍurūmī, former owner', 'Muḥammad Farīd, former owner', 'Şerif Paşazade Mehmet Asad, former owner', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['ابراهيم فريد الدين بن حاجي علي الارضرومي، مالك سابق', 'محمد فريد، مالك سابق', 'شريف پاشا زاده محمد اسعد، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Rāshid, former owner', 'Mehmet Edirnevî scribe'])
+
+ar-Arab: (count: ['محمد راشد، مالك سابق', 'محمد ادرنوي، ناسخ'])
+
+en: (count: ['Muḥammad Adīb ibn Muḥammad ʻAlī al-Kīlānī, former owner', 'Dhū al-Fiqār Āghā, former owner', 'Ḥasan al-Arzanjānī, former owner', 'Muḥammad Ṣāliḥ al-Usṭuwānī, former owner', 'Ibrāhīm al-Usṭuwānī, former owner', 'Ḥasan al-Usṭuwānī, former owner', 'Mehmet Hulûsî bin Ali Efendi, former owner', 'ʻUmar ibn Muḥammad, scribe'])
+
+ar-Arab: (count: ['محمد اديب بن محمد علي الكيلاني، مالك سابق', 'ذو الفقار آغا، مالك سابق', 'حسن الارزنجاني، مالك سابق', 'محمد صالح الاسطواني، مالك سابق', 'ابراهيم الاسطواني، مالك سابق', 'حسن الاسطواني، مالك سابق', 'محمد خلوصى بن على افندى، مالك سابق', 'عمر بن محمد، ناسخ'])
+
+en: (count: ['Ismāʻīl ibn Ismāʻīl al-Qaṣṣāb al-Ḥanafī al-Shādhilī, former owner', 'Aḥmad al-Bayṭār, former owner'])
+
+ar-Arab: (count: ['اسماعيل بن اسماعيل القصاب الحنفي الشاذلي, مالك سابق', 'احمد البيطار, مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Baháʼuʼlláh'])
+
+ar-Arab: (count: ['بهاء الله'])
+
+en: (count: ['Ismā‘īl ibn Muḥammad al-Zurqānī, scribe'])
+
+ar-Arab: (count: ['اسماعيل بن محمد الزرقاني, ناسخ'])
+
+en: (count: ['Ḥalabī, Ghars al-Dīn Khalīl ibn Aḥmad al-Naqīb', 'Farghānī, Aḥmad ibn Muḥammad ibn Kathīr', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['غرس الدين خليل بن أحمد النقيب الحلبي', 'أحمد بن محمد بن كثير الفرغاني'])
+
+en: (count: ['Hasan Zühdi Erzurûmî, scribe'])
+
+ar-Arab: (count: ['حسن الزهدى الارضرومى، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ibn al-ʻArabī'])
+
+ar-Arab: (count: ['ابن العربي'])
+
+en: (count: ['Aḥmad al-Najīb, scribe'])
+
+ar-Arab: (count: ['احمد النجيب، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Karīm al-Dīn ʻAbd al-Karīm, patron, former owner', 'Ḥamzah ibn ʻAbd al-Wahhāb, scribe'])
+
+ar-Arab: (count: ['كريم الدين عبد الكريم، راع، مالك سابق', 'حمزة بن عبد الوهاب، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ziftāwī, Muḥammad ibn ʻAlī, calligrapher', 'Fayyūmī, Nāṣir al-Dīn Muḥammad ibn ʻAbd al-Ṣamad'])
+
+ar-Arab: (count: ['زفتاوي، محمد بن علي، خطاط', 'فيومي، ناصر الدين محمد بن عبد الصبد،'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd al-Wahhāb al-Ḥusaynī, scribe'])
+
+ar-Arab: (count: ['عبد الوهاب الحسيني،'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yedikuleli Seyit Abdullah, calligrapher'])
+
+ar-Arab: (count: ['يدى قله لى سيد عبد الله, خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ali Rıza Paşa, patron', 'Baghdādī, Sufyān al-Wahbī, scribe', 'Shaṭṭanūfī, ʻAlī ibn Yūsuf', 'Muttaqī, ʻAlī ibn ʻAbd al-Malik'])
+
+ar-Arab: (count: ['علي رضا باشا, راع', 'بغدادي, سفيان الوهبي, ناسخ', 'شطنوفي, علي بن يوسف', 'متقي, علي بن عبد الملك'])
+
+en: (count: ['Badahlī al-Shāfiʻī, Aḥmad ibn Muḥammad ibn ʻAbd al-Dāʼim, scribe', 'Ibn al-Habbārīyah, Muḥammad ibn Muḥammad', 'Dīrīnī, ʻAbd al-ʻAzīz', 'Ḥarrānī, Aḥmad ibn Ḥamdān'])
+
+ar-Arab: (count: ['بدهلي الشافعي, احمد بن محمد بن عبد الدائم, ناسخ', 'ابن الهبارية, محمد بن محمد', 'ديريني, عبد العزيز', 'حراني, أحمد بن حمدان'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Muḥammad ibn ʻAbd al-Raḥmān, مالك سابق', 'Muḥammad ibn ʻAlī ibn Muḥammad ibn ʻAlī, former owner', 'ʻAbd al-Raḥmān ibn al-ʻUthmān, former owner', 'Muḥammad ibn ʻAbd al-Qādir ibn ʻAbd Allāh al-Jubbī, former owner', 'ʻAbd al-Naẓẓām Muḥammad ibn ʻAlī, former owner', '‘Alī ibn ‘Abd Allāh al-Zubayr al-Mulaykī'])
+
+ar-Arab: (count: ['محمد بن عبد الرحمن، مالك سابق', 'محمد بن علي بن محمد بن علي، مالك سابق', 'عبد الرحمن بن العثمان، مالك سابق', 'محمد بن عبد القادر بن عبد الله الجبي، مالك سابق', 'عبد النظام محمد بن علي، مالك سابق', 'علي بن عبد الله الزبير المليكي'])
+
+en: (count: ['Ibn Muṣṭafá Muḥammad al-Zaghrawī al-ʻAtīqī, scribe', 'Burhān al-Dīn Ibrāhīm al-Khāliʻī al-ʻAdawī', 'Ibn al-Shiḥnah, Ibrāhīm ibn Muḥammad'])
+
+ar-Arab: (count: ['ابن مصطفى محمد الزغروي العتيقي, ناسخ', 'برهان الدين ابراهيم الخالعي العدوي', 'ابن الشحنة، حسين بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Qivām, scribe'])
+
+ar-Arab: (count: ['محمد قوام, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['ʻAlī ibn Muṣṭafá, scribe', 'Sibṭ al-Māridīnī, Badr al-Dīn Muḥammad ibn Muḥammad', 'Ibn al-Majdī, Aḥmad ibn Rajab', 'Chillī, ʻUmar ibn Aḥmad al-Māʼī'])
+
+ar-Arab: (count: ['علي بن مصطفى, ناسخ', 'سبط المارديني، بدر الدين محمد بن محمد', 'ابن المجدي، احمد بن رجب', 'چلي, عمر بن أحمد المائي'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'İbrahim Ethem, former owner'])
+
+ar-Arab: (count: ['ابراهيم ادهم، مالك سابق'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Hacı Hafız Ömer, scribe'])
+
+ar-Arab: (count: ['حاجى حافظ عمر, ناسخ'])
+
+en: (count: ['Faḍīl ibn Jalāl al-Dīn Nāʼīnī, scribe'])
+
+ar-Arab: (count: ['فضيل بن جلال الدين نائيني, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Muḥammad ibn Muṣṭafá Shuʻayb, former owner'])
+
+ar-Arab: (count: ['محمد بن مصطفى شعيب، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Eminzade Mustafa, former owner'])
+
+ar-Arab: (count: ['امين زاده مصطفى، مالك سابق'])
+
+en: (count: ['McGregor, Tracy W. former owner', 'Suyūṭī'])
+
+ar-Arab: (count: ['سيوطي'])
+
+en: (count: ['Ibn al-Majdī, Shihāb al-Dīn Abū al-ʻAbbās Aḥmad ibn Rajab al-Qāhirī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['شهاب الدين أبو العباس أحمد بن رجب القاهري بن المجدي'])
+
+en: (count: ['Ismāʻīl ibn Ḥasan ibn Muṣṭafá al-Awlawī, scribe, former owner'])
+
+ar-Arab: (count: ['اسماعيل بن حسن بن مصطفى الاولوى، ناسخ، مالك سابق'])
+
+en: (count: ['Mehmet Faik, former owner', 'Mehmet Fıkhiy ül-Ayni, compiler'])
+
+ar-Arab: (count: ['محمد الفائق, مالك سابق', 'محمد فقهى العينى, مصنف'])
+
+en: (count: ['Ulugh Beg', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['ألوغ بك.'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Aḥmad al-Bujayrimī al-Shāfiʻī, former owner', 'Nuʻmān ibn Aḥmad al-Qalʻī, former owner'])
+
+ar-Arab: (count: ['احمد البجيرمي الشافعي، مالك سابق', 'نعمان بن احمد القلعي، مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Yahya bin Mehmet Bosnevî, former owner', 'ʻAbd al-Wahhāb ibn ʻAbd al-Raḥmān, former owner'])
+
+ar-Arab: (count: ['يحيى بن محمد البسنوى، مالك سابق', 'عبد الوهاب بن عبد الرحمن، مالك سابق'])
+
+en: (count: ['ʻAlī ibn Muḥammad al-Sibāʻī al-Ḥimsī, scribe'])
+
+ar-Arab: (count: ['علي بن محمد السباعي الحمسي، ناسخ'])
+
+en: (count: ['Halil bin İbrahim, scribe'])
+
+ar-Arab: (count: ['خليل بن ابراهيم، ناسخ'])
+
+en: (count: ['Muḥammad Sabḥī ibn Dāwūud al-Qāsim al-ʻAskarī, patron', 'Yūsuf ibn Muḥammad al-Qāṣiḥ al-ʻUdhrī, scribe', 'Nāṣiḥī, Abū Muḥammad ʻAbd Allāh ibn al-Ḥusayn'])
+
+ar-Arab: (count: ['محمد سبحي بن داود القاسم العسكري، راع', 'يوسف بن محمد القاصح العذري، ناسخ', 'ناصحي، ابو محمد عبد الله بن الحسين'])
+
+en: (count: ['Ibn al-ʻArabī'])
+
+ar-Arab: (count: ['ابن العربي'])
+
+en: (count: ['Muṣṭafá al-Faraḍī, former owner'])
+
+ar-Arab: (count: ['مصطفى الفرضي، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ṭāhir ibn ʻUthmān, scribe'])
+
+ar-Arab: (count: ['طاهر بن عثمان, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Bakīr ibn Muḥammad ibn Ismā‘īl, scribe'])
+
+ar-Arab: (count: ['بكير بن محمد بن اسماعيل, ناسخ'])
+
+en: (count: ['Aḥmad ibn ʻAbd al-ʻAzīz ibn Saʻd ibn ʻAlī al-Jazāʼirī, scribe', 'Ibn Abī al-Qāsim, al-Ḥusayn, scribe', 'Abū Zayd al-Fāsī, ʻAbd al-Raḥmān ibn ʻAbd al-Qādir', 'Khalīl ibn Isḥāq al-Jundī'])
+
+ar-Arab: (count: ['احمد بن عبد العزيز بن سعد بن علي الجزائري, ناسخ', 'ابن ابي القاسن، الحسين, ناسخ', 'ابو زيد الفاسي, عبد الرحمن بن عبد القادر', 'خليل بن اسحاق الجندي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ḥusayn ibn Ibrāhīm al-Tunukābunī'])
+
+ar-Arab: (count: ['حسين بن ابراهيم التنكابني'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm'])
+
+ar-Arab: (count: ['صدر الدن شيرازى، محمد بن ابراهيم'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'ʻAṭāʼ Allāh al-Ḥusaynī al-Hamadānī, scribe'])
+
+ar-Arab: (count: ['عطاء الله الحسينى الهمدانى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ḥusayn ibn Qāsim al-Ṣafavī al-Ḥusaynī, former owner'])
+
+ar-Arab: (count: ['حسين بن قاسم الصفوى الحسينى, مالك سابق'])
+
+en: (count: ['Ḥabbāl, ʻAbd al-Qādir, scribe'])
+
+ar-Arab: (count: ['حبال، عبد القادير، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ḥāfiẓ Sulaymān Bīg, former owner', 'Ismā‘īl ibn Ḥasan, scribe', 'Jandī, Aḥmad ibn Maḥmūd', 'Ibn Yaʻīsh, Yaʻīsh ibn ʻAlī'])
+
+ar-Arab: (count: ['حافظ سليمان بيگ، مالك سابق', 'اسماعيل بن حسن, ناسخ', 'جندي، احمد بن محمود', 'ابن يعيش, يعيش بن علي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Sakkākī, Yūsuf ibn Abī Bakr', 'Sibāʻī , Muṣṭafá ibn ʻAbd al-Fattāḥ, copyist, former owner', 'Ḥimṣī, Ismā‘īl ibn ‘Abd al-Mun‘im, scribe'])
+
+ar-Arab: (count: ['سكاكي، يوسف بن ابي بكر', 'سباعي، مصطفى بن عبد الفتاح، ناسخ، مالك سابق', 'حمصي، اسماعيل بن عبد النعم، ناسخ'])
+
+en: (count: ['Ibn al-Hāʼim, Aḥmad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد بن محمد بن الهائم'])
+
+en: (count: ['Ibn al-Hāʼim, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['أحمد بن محمد بن الهائم'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['ʻAlī ibn Muṣṭafá, scribe', 'Najm al-Dīn Aḥmad ibn Ibrāhīm al-ʻAbbāsī, scribe', 'ʻĪsá ibn ʻAbd al-Raḥīm'])
+
+ar-Arab: (count: ['علي بن مصطفى، ناسخ', 'نجم الدين احمد بن ابراهيم العباسي, ناسخ', 'عيسى بن عبد الرحيم،'])
+
+en: (count: ['Mehmet Esat, former owner', 'ʻAbd Allāh ibn ʻAlī, former owner'])
+
+ar-Arab: (count: ['محمد اسعد, مالك سابق', 'عبد الله بن علي، ناسخ'])
+
+en: (count: ['Muḥammad ʻAlī Khārānī, former owner'])
+
+ar-Arab: (count: ['محمد علي خاراني، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ḥarrānī, Abū al-Thanāʼ Ḥammād ibn Hibat Allāh'])
+
+ar-Arab: (count: ['حراني، ابو الثناء حماد بن هبة الله'])
+
+en: (count: ['Aḥmad Jād Allāh al-Ḥattānī, former owner', '‘Abd Allah ibn Ḥamīd ibn ‘Abd Allah al-Sharshīmī, scribe'])
+
+ar-Arab: (count: ['احمد جاد الله الحتاني, مالك سابق', 'عبد الله بن حميد بن عبد الله الشرشيمي, ناسخ'])
+
+en: (count: ['Süleyman Edip el-Kayserî, scribe'])
+
+ar-Arab: (count: ['سليمان اديب القيصري، ناسخ'])
+
+en: (count: ['Muḥammad ibn Zaynī ibn Isḥāq al-Kalajī, scribe', 'ʻĀlim ibn ʻAlāʼ'])
+
+ar-Arab: (count: ['محمد بن زيني بن اسحاق الكلجي، ناسخ', 'عالم بن علاء. فتاوى التاتارخانية'])
+
+en: (count: ['Cennetzade İsmail Muyhi bin Mehmet Ragıp, former owner', 'ʻUmar ibn Muḥammad, scribe, collator'])
+
+ar-Arab: (count: ['جنت زاده اسماعيل محيى بن محمد راغب، مالك سابق', 'عمر بن محمد، ناسخ، مقابل'])
+
+en: (count: ['Rūmī, Rashīd al-Dīn Abī ʻAbd Allāh Maḥmūd ibn Ramaḍān', 'Dāwud ibn ʻAlī, scribe'])
+
+ar-Arab: (count: ['رومي, رشيد الدين أبي عبد الله محمود بن رمضان', 'داود بن علي, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Sulṭān Ḥusayn ibn Jamshīd, scribe'])
+
+ar-Arab: (count: ['سلطان حسين بن جمشيد, ناسخ'])
+
+en: (count: ['Manṣūr al-ʻAṭṭār, scribe'])
+
+ar-Arab: (count: ['منصور العطار, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Aḥmad al-Makmūnī, former owner'])
+
+ar-Arab: (count: ['احمد المكموني، مالك سابق'])
+
+en: (count: ['Mawlānā Shams al-Dīn, collator', 'ʻAbd al-Raḥmān ibn ʻAbd al-Karīm ibn Naṣr Allāh al-Jurmī Muḥtadā al-Shīrāzī, scribe'])
+
+ar-Arab: (count: ['مولانا شمس الدين, مقابل', 'عبد الرحيم بن عبد الكريم بن نصر الله الجرمي محتدا الشيرازي، ناسخ'])
+
+en: (count: ['Mehmet Faik Küçük Hafız Efendizade, former owner', 'Muḥammad ibn ʻAbd al-Raḥmān ibn Sayyār, scribe'])
+
+ar-Arab: (count: ['محمد فائق كوچك حافظ افندى زاده, مالك سابق', 'محمد بن عبد الرحمن بن سيار, ناسخ'])
+
+en: (count: ['Muṣṭafá ibn Muḥammad, scribe'])
+
+ar-Arab: (count: ['مصطفى بن محمد، ناسخ'])
+
+en: (count: ['Todd, Albert May, former owner'])
+
+en: (count: ['Ḥasan al-Rizq, former owner'])
+
+ar-Arab: (count: ['حسن الرزق، مالك سابق'])
+
+en: (count: ['Mehmet bin Halil, scribe', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['محمد بن خليل، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Bābā Shāh ibn Sulṭān ʻAlī, scribe'])
+
+ar-Arab: (count: ['بابا شاه بن سلطان على, ناسخ'])
+
+en: (count: ['Muṣṭafá Ṣidqī, former owner'])
+
+ar-Arab: (count: ['مصطفى صدقى، مالك سابق'])
+
+en: (count: ['Khashshāb, Ismāʻīl ibn Saʻd, former owner', 'Pīr Muḥammad ibn ʻAlī al-Kalībūlī, scribe'])
+
+ar-Arab: (count: ['خشاب، اسماعيل بن سعد، مالك سابق', 'پير محمد بن علي الكليبولي، ناسخ'])
+
+en: (count: ['Aḥmad ibn ʻAbd al-Raḥīm ibn ʻAbd Allāh ibn Faḍl Allāh al-Jawādī, scribe'])
+
+ar-Arab: (count: ['احمد بن عبد الرحيم بن عبد الله بن فضل الله الجوادي, ناسخ'])
+
+en: (count: ['Zayn al-Dīn Abū Bakr al-Ḥalabī, Ibn al-Naḥlāwī. former owner', 'Aḥmad ibn al-Shaykh Muḥammad ibn Muslim al-Tūnisī al-Ḥanafī. former owner', 'Muḥammad al-ʻAlamī. former owner'])
+
+ar-Arab: (count: ['زين الدين ابو بكر الحلبي، ابن النحلاوي، مالك سابق', 'احمد بن الشيخ محمد بن مسلم التونسي الحنفي، مالك سابق', 'محمد العلمي، مالك سابق'])
+
+en: (count: ['Rūdānī, Muḥammad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمد بن محمد الروداني'])
+
+en: (count: ['Ahmet bin Mustafa Dîvânîzâde, former owner'])
+
+ar-Arab: (count: ['احمد بن مصطفى ديوانى زاده، مالك سابق'])
+
+en: (count: ['Sayyid al-Ḥājj ʻAbd Allāh al-Muftī, former owner', 'Maḥmūd ibn Aḥmad ibn Muḥammad al-Yanaywī, former owner'])
+
+ar-Arab: (count: ['سيد الحاج عبد الله المفتي, مالك سابق', 'محمود بن احمد بن محمد الينيوي, مالك سابق'])
+
+en: (count: ['Muṣṭafá Aghā ibn Qāsim Aghā, patron', 'Muṣṭafá ibn Muḥammad al-Arzanjānī, former owner'])
+
+ar-Arab: (count: ['مصطفى اغا بن قاسم اغا، راع', 'مصطفى بن محمد الارزنجاني، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn al-Qūnawī, Muḥammad ibn Isḥāq'])
+
+ar-Arab: (count: ['صدر الدين القونوي، محمد بن اسحاق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Ibn ʻAynī Aznāwī, scribe', 'Muḥaqqiq al-Ḥillī, Jaʻfar ibn al-Ḥasan'])
+
+ar-Arab: (count: ['ابن عيني ازناوي, ناسخ', 'محقق الحلي، جعفر بن الحسن،'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Quṭrub, Muḥammad ibn al-Mustanīr', 'Abū Bakr ibn Muḥammad ibn Abī Bakr ibn Mālik', 'Maḥallī, Ibrāhīm ibn Hibat Allāh'])
+
+ar-Arab: (count: ['قطرب، محمد بن المستنير', 'ابو بكر بن محمد بن ابي بكر بن مالك', 'محلي، ابراهيم بن هبة الله'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Zamān ibn Sayyid Murād al-Ḥusaynī, scribe'])
+
+ar-Arab: (count: ['محمد زمان ابن سيد مراد الحسيني, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad al-Kātib al-Nūr, scribe'])
+
+ar-Arab: (count: ['محمد الكاتب النور, ناسخ'])
+
+en: (count: ['Ali bin Çek es-Seçti, scribe'])
+
+ar-Arab: (count: ['على بن چك السچدى, ناسخ'])
+
+en: (count: ['ʻAbd Allāh ibn Muḥammad al-Ṣabbāgh, former owner', 'Bakr ibn Muṣṭafá ibn Ḥasan, former owner'])
+
+ar-Arab: (count: ['عبد الله بن محمد الصباغ, مالك سابق', 'بكر بن مصطفى بن حسن, مالك سابق'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['ʻAlī Riz̤ā ibn Ḥājjī Mīrzā ʻAlī Hazārʻcharbī, scribe'])
+
+ar-Arab: (count: ['على رضا ابن حاجى ميرزا على هزار چربى، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Muṣṭafá ibn Khalīl, scribe'])
+
+ar-Arab: (count: ['مصطفى بن خليل, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Şeyh Hamdullah, calligrapher'])
+
+ar-Arab: (count: ['شيخ حمد الله، خطاط'])
+
+en: (count: ['Hafız Mehmet bin İbrahim, former owner', 'Hacı Mehmet bin Hacı Sinan, scribe'])
+
+ar-Arab: (count: ['حافظ محمد بن ابراهيم، مالك سابق', 'حاجى محمد بن حاجى سنان، ناسخ'])
+
+en: (count: ['Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd, Burdah', 'Jalāl al-Dīn Rūmī, Maulana', 'Yusuf Sinaneddin Sineçak', 'Şeyh Sadullah Halvetî'])
+
+ar-Arab: (count: ['بوصيري, شرف الدين محمد بن سعيد', 'جلال الدين رومي, مولانا،', 'يوسف سنان الدين سينه چاك', 'سعد الله الخلوتي'])
+
+en: (count: ['Ali bin Osman Ağa, former owner', 'Aḥmad ibn Abī Bakr al-Manhalī al-Azharī, scribe'])
+
+ar-Arab: (count: ['غلى بن عثمان اغا، مالك سابق', 'احمد بن ابي بكر المنهلي الازهري، ناسخ'])
+
+en: (count: ['Muḥammad Ḥusayn ibn Muḥammad Shāh al-Ḥusaynī al-Marʻashī Shūshtarī, scribe', 'Jawharī, Ismāʻīl ibn Ḥammād'])
+
+ar-Arab: (count: ['محمد حسين بن محمد شاه الحسيني المرعشي شوشتري, ناسخ', 'جوهري، اسماعيل بن حماد'])
+
+en: (count: ['Miner, Horace former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Abū Ḥayyān Muḥammad ibn Yūsuf'])
+
+ar-Arab: (count: ['ابو حيان محمد بن يوسف'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Nabīl, former owner', 'ʻAlī ibn Ismāʻīl ibn Ḥamzah, scribe'])
+
+ar-Arab: (count: ['محمد نبيل، مالك سابق', 'علي ابن اسماعيل ابن حمزة, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yedikuleli Seyit Abdullah, calligrapher'])
+
+ar-Arab: (count: ['يدى قله لى سيد عبد الله، خطاط'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Sarakhsī, Muḥammad ibn Aḥmad', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['محمد بن أحمد السرخسي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Dāwūd ibn Buqṭur, scribe', 'Mukhtaṣar Ḥisāb al-Abuqṭīyāt', 'Urjūzah fī maʻrifat al-Abuqṭī wa-ḥisāb al-ṣawm al-muqaddas wa-al-Fiṣḥ wa-al-aʻyād wa-ghayr dhālik'])
+
+ar-Arab: (count: ['داوود بن بقطر، ناسخ', 'مختصر حساب الابقطيات', 'ارجوزة في معرفة الابقطي وحساب الصوم المقدس والفصح والاعياد وغير ذلك'])
+
+en: (count: ['ʻAbd al-Ghafūr Shukrī, former owner'])
+
+ar-Arab: (count: ['عبد الغفور شكري، مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Bāqī al-Bakrī al-Ṣiddīqī, former owner', 'ʻAbd Allāh Abū al-Mawāhib al-Ṣiddīqī al-Bakrī'])
+
+ar-Arab: (count: ['عبد الباقي البكري الصديقي، مالك سابق', 'عبد الله ابو المواهب الصديقي البكري'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'مصفطى رشيد، مالك سابق', 'Mustafa Reşit, former owner', 'Muḥammad Amīn al-Ḥusaynī al-Tirmiẕī, scribe', 'Hamadhānī, ʻAlī ibn Muḥammad', 'Saʻdī'])
+
+ar-Arab: (count: ['محمد امين الحسينى الترمذى, ناسخ', 'همدانى، على بن محمد', 'سعدى'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Eğrikapılı Mehmet Râsim Efendi, calligrapher'])
+
+ar-Arab: (count: ['اكرى قابيلى محمد راسم افندى، خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd al-Laṭīf ibn Shaykh Darvīsh Muḥammad al-Shirvānī, scribe'])
+
+ar-Arab: (count: ['عبد اللطيف بن شيخ درويش محمد الشروانى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Muḥammad Ṣādiq, former owner'])
+
+ar-Arab: (count: ['محمد صادق, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻĀrif Jadval-kash, scribe'])
+
+ar-Arab: (count: ['عارف جدول كش، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Jamāl Shāh Maḥmūd, scribe'])
+
+ar-Arab: (count: ['جمال شاه محمود, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Kadızade Mustafa Haşimî, calligrapher', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['قاضى زاده مصطفى الهاشمى، خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd al-Qādir Sāvajī al-Qazvīnī, scribe'])
+
+ar-Arab: (count: ['عبد القادر ساوجى القزوينى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heineman, David Emil, donor'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'İbrahim Rodosi, calligrapher'])
+
+ar-Arab: (count: ['ابراهيم الردوسي، خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Raḥīm ibn Muḥammad, scribe'])
+
+ar-Arab: (count: ['محمد رحيم ابن محمد, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mehmet Itri, scribe'])
+
+ar-Arab: (count: ['محمد عطری, ناسخ'])
+
+en: (count: ['Muḥammad ibn Ḥasan al-Bayṭār, former owner'])
+
+ar-Arab: (count: ['محمد بن حسن البيطار, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Bāʻūnī, Muḥammad ibn Aḥmad'])
+
+ar-Arab: (count: ['باعوني، محمد بن احمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Qār ʻAlī bin Pīr ʻAlī, scribe'])
+
+ar-Arab: (count: ['قار على بن پير على، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yesari Mehmet Esat Efendi, calligrapher'])
+
+ar-Arab: (count: ['يسارى محمد اسعد افندى, خطاط'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm'])
+
+ar-Arab: (count: ['صدر الدين شيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Hegel, Georg Wilhelm Friedrich', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm', 'Fārābī', 'Bergson, Henri', 'Rand, Benjamin', 'Averroës'])
+
+ar-Arab: (count: ['صدر الدين شيرازي، محمد بن ابراهيم', 'فارابي', 'ابن رشد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbduʼl-Bahá'])
+
+ar-Arab: (count: ['عبد البهاء'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hacı Mustafa İzzet, scribe'])
+
+ar-Arab: (count: ['حاجى مصطفى عزت, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbdī Khvājah ibn Khvājah Saʻd ibn Khvājah Muḥammad Islām, patron, former owner', 'Mīr Muḥammad Yaʻqūb, binder', 'Fūlād Muḥammad ibn Yār Muḥammad al-Bukhārī, scribe'])
+
+ar-Arab: (count: ['عبدى خواجه بن خواجه سعد بن خواجه محمد اسلام، راع، مالك سابق', 'مير محمد يعقوب، مجلد', 'فولاد محمد بن يار محمد البخارى، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mahmut Celalettin, calligrapher, facsimilist'])
+
+ar-Arab: (count: ['محمود جلال الدين, خطاط ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd al-Ghanī Faḍl Allāh al-ʻAṭṭār, former owner', 'Ahmet Efendi necl-i Hafızzade Süleyman, former owner', 'Murat bin Halit Ağazade, former owner', 'ʻAbd al-ʻAzīz al-Raḥbī, collator', 'Muḥammad ibn Aḥmad al-Kurdī, scribe'])
+
+ar-Arab: (count: ['عبد الغني فضل الله العطار، مالك سابق', 'احمد افندى نجل حافظ زاده سليمان، مالك سابق', 'مراد بن خالد اغا زاده، مالك سابق', 'عبد العزيز الرحبي، مقابل', 'محمد بن احمد الكردي، ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Mehmet bin Mehmet Bey, scribe'])
+
+ar-Arab: (count: ['محمد بن محمد بك، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ibn Mālik, Muḥammad ibn ʻAbd Allāh', 'Ūshī, ʻAlī ibn ʻUthmān', 'Laqānī, Ibrāhīm ibn Ibrāhīm', 'Sanūsī, Muḥammad ibn Yūsuf'])
+
+ar-Arab: (count: ['ابن مالك, محمد بن عبد الله', 'اوشي، علي بن عثمان', 'لقاني، ابراهيم بن ابراهيم', 'سنوسي، محمد بن يوسف'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Shāh Maḥmūd Nīshāpūrī, calligrapher'])
+
+ar-Arab: (count: ['شاه محمود نىشاپورى، خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['ʻAbd al-ʻAzīz al-Ṣamadī', 'ʻUmar ibn ʻAbd al-Salām', 'Muḥammad Najīb al-Azharī al-Ḥusnī al-ʻAṭṭār', 'Muḥammad Ṣādiq'])
+
+ar-Arab: (count: ['عبد العزيز الصمدي', 'عمر بن عبد السلام', '.محمد نجيب الازهري الحسني العطار', 'محمد صادق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Şeyh Hamdullah, calligrapher'])
+
+ar-Arab: (count: ['شيخ حمد الله، خطاط'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Raḥmān Muḥammad al-Dahhān, scribe', 'Sindī, Muḥammad Ḥayāt', 'ʻAṭṭās, ʻAbd Allāh ibn ʻAlawī', 'Najdī, ʻUthmān Aḥmad', 'Shams al-Dīn al-Zahhār al-ʻAzīzī al-Shāfiʻī', 'Ṣaʻīdī, ʻAlī ibn Aḥmad', 'Zurqānī, ʻAbd al-Bāqī ibn Yūsuf'])
+
+ar-Arab: (count: ['عبد الرحمن محمد الدهان. ناسخ', 'سندي، محمد حيات،', 'عطاس، عبد الله بن علوي', 'نجدي، عثمان احمد', 'شمس الدين العزيزي الشافعي', 'صعيدي، علي بن احمد', 'زرقاني, عبد الباقي بن يوسف'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Bahaüddin Nakşibend', 'Būnī, Aḥmad ibn ʻAlī'])
+
+ar-Arab: (count: ['بهاء الدين نقشبند، محمد بن محمد', 'بوني، احمد بن علي'])
+
+en: (count: ['Ṣamūnī, al-Sayyid Muṣṭafá, scribe', 'Ibn al-ʻArabī'])
+
+ar-Arab: (count: ['صموني, السيد مصطفى, ناسخ', 'ابن العربي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Kemalpaşazade', 'Birgivî Mehmet Efendi', 'Marghīnānī, Maḥmūd ibn Aḥmad'])
+
+ar-Arab: (count: ['ابن كمال باشا', 'بركوي محمد افندي', 'مرغيناني, محمود بن احمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hamdî, calligrapher'])
+
+ar-Arab: (count: ['حمدى، خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hābīl ibn ʻUmar, scribe', 'Ibn al-Ḥājib, ʻUthmān ibn ʻUmar', 'Bayḍāwī, ʻAbd Allāh ibn ʻUmar', 'Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad', 'Samarqandī, Abū al-Qāsim ibn Abī Bakr', 'Taftāzānī, Masʻūd ibn ʻUmar', 'Athīr al-Dīn al-Abharī, al-Mufaḍḍal ibn ʻUmar', 'Samarqandī, Muḥammad ibn Ashraf', 'Jighmīnī, Maḥmūd ibn Muḥammad'])
+
+ar-Arab: (count: ['هابيل بن عمر, ناسخ', 'ابن الحاجب، عثمان بن عمر', 'بيضاوي، عبد الله بن عمر', 'ايجي، عضد الدين عبد الرحمن بن احمد', 'سمرقندي، ابو القاسم بن ابي بكر', 'تفتازاني، مسعود بن عمر', 'اثير الدين الابهري، المفضل بن عمر', 'سمرقندي، محمد بن اشرف', 'جغميني، محمود بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Makkī ibn Muḥammad ibn Shams al-Dīn ibn al-Ḥasan ibn Zayn al-Dīn, former owner', 'Ibn Mīr Muḥammad Salīm al-Rāzī Sayyid Muḥammad al-Ḥusaynī, scribe', 'ʻAlī Riz̤ā ibn Ḥasan al-ʻAqlānī al-Tankānī, scribe', 'Plato', 'Ṣadr al-Dīn al-Qūnawī, Muḥammad ibn Isḥāq', 'ʻAbd al-Razzāq al-Qāshānī', 'Badr al-Dīn al-Shāshī al-Shirwānī'])
+
+ar-Arab: (count: ['محمد مكي بن محمد شمس الدين بن الحسن بن زين الدين، مالك سابق', 'ابن مير محمد سليم الرازي سيد محمد الحسيني، ناسخ', 'عليرضا بن حسن العقلاني التنكاني، ناسخ', 'افلاطون', 'صدر الدين القونوي، محمد بن اسحاق', 'عبد الرزاق القاشاني', 'بدر الدين الشاشي الشرواني'])
+
+en: (count: ['ʻAbd Allāh ibn Aḥmad ibn Muḥammad ibn ʻAlī, scribe', 'Taftāzānī, Masʻūd ibn ʻUmar', 'Maghnīsāwī, Aḥmad ibn Muḥammad', 'Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad', 'Birgivî Mehmet Efendi'])
+
+ar-Arab: (count: ['عبد الله بن احمد بن محمد بن علي. ناسخ', 'تفتازاني، مسعود بن عمر', 'مغنيساوي، احمد بن محمد', 'ابو الليث السمرقندي، نصر بن محمد', 'بركوى محمد افندى'])
+
+en: (count: ['Asad Allāh ibn Darvīsh ʻArab, scribe', 'Ḥillī, Ṣafī al-Dīn ʻAbd al-ʻAzīz ibn Sarāyā', 'Majlisī, Muḥammad Bāqir ibn Muḥammad Taqī', 'Kemalpaşazade', 'Maghnīsāwī, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['اسد الله بن درويش عرب، ناسخ', 'حلي، صافي الدين عبد العزيز بن سرايا', 'مجلسي، محمد باقر بن محمد تقي', 'ابن كمال باشا، احمد بن سليمان', 'مغنيساوي، احمد بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Şanizade Mehmet Sadık, former owner', 'Abdürrahim Mahmut Efendizade, former owner', 'طاش كبري زاده، احمد بن مصطفى', 'Ṭāshkubrīʹzādah, Aḥmad ibn Muṣṭafá', 'Ibn Quṭlūbughā, al-Qāsim ibn ʻAbd Allāh', 'Kemalpaşazade', 'Shāh Afandī Dāmād Abī al-Saʻūd', 'Abū al-Saʻūd Muḥammad ibn Muḥammad', 'Muṣannifak, ʻAlī ibn Majd al-Dīn Muḥammad', 'Dadah Khalīfah'])
+
+ar-Arab: (count: ['شانى زاده محمد صادق، مالك سابق', 'عبد الرحيم محمود افندى زاده، مالك سابق', 'ابن قطلوبغا، القاسم بن عبد الله', 'ابن كمال باشا، احمد بن سليمان', 'شاه افندى داماد ابي السعود', 'ابو السعود محمد بن محمد', 'مصنفك، علي بن مجد الدين محمد', 'دده خليفه'])
+
+en: (count: ['شرح البناء', 'Cennetzade İsmail Muyhi bin Mehmet Ragıp, former owner', 'ʻUmar ibn Ḥusayn, scribe', 'Ismāʻīl ibn Zunayl, scribe', 'Aḥmad ibn ʻImād al-Ḥanafī', 'Ibn Hishām, ʻAbd Allāh ibn Yūsuf', 'Kātī, Ḥusām al-Dīn al-Ḥasan', 'Nawawī'])
+
+ar-Arab: (count: ['جنت زاده اسماعيل محيي بن محمد راغب، مالك سابق', 'عمر بن حسين الزمواني، ناسخ', 'اسماعيل بن زنيل, ناسخ', 'احمد بن عماد الحنفي', 'ابن هشام، عبد الله بن يوسف', 'كاتي، حسام الدين الحسن', 'نووي'])
+
+en: (count: ['Ahmet Veli Erzincanlı, scribe', 'Ṣaghānī, al-Ḥasan ibn Muhḥammad', 'Ibn Ḥajar al-Haythamī, Aḥmad ibn Muḥammad', 'Qārī al-Harawī, ʻAlī ibn Sulṭān Muḥammad', 'Jammāʻīlī, ʻAbd al-Ghanī ibn ʻAbd al-Wāḥid', 'Suyūṭī', 'Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad'])
+
+ar-Arab: (count: ['احمد بن ولى الارزنجانى، ناسخ', 'صغاني، الحسن بن محمد', 'ابن حجر الهيثمي، احمد بن محمد', 'قاري الهروي، علي بن سلطان محمد', 'جماعيلي، عبد الغني بن عبد الواحد', 'سيوطي', 'ابو الليث السمرقندي، نصر بن محمد'])
+
+en: (count: ['Mehmet Üveys Karsî', 'Muṣṭafá al-Anṭākī', 'Hakanî Mehmet Bey', 'Ibn Nujaym, Zayn al-Dīn ibn Ibrāhīm', 'Fatḥ Allāh ibn Maḥmūd al-Mawṣilī', 'Ibn Ḥajar al-ʻAsqalānī, Aḥmad ibn ʻAlī', 'Kūbrulī, Nuʻmān ibn Muṣṭafá', 'Kemalpaşazade', 'Muḥammad al-Tibrīzī al-Ḥanafī', 'Kadızade Mehmet Necip'])
+
+ar-Arab: (count: ['محمد بن اويس قرصى،', 'مصطفى الارمتاكي التكوي الانطاكي', 'حاقانى محمد بك.', 'ابن نجيم، زين الدين بن ابراهيم', 'فتح الله بن محمود الموصلي', 'ابن حجر العسقلاني، احمد بن علي', 'كپرلى نعمان پاشا', 'ابن كمال باشا، أحمد بن سليمان', 'محمد التبريزي الحنفي', 'قاضى زاده محمد نجيب'])
+
+en: (count: ['ʻUthmān ibn Muṣṭafá Karāmah, scribe', 'Mehmet Esat Efendi', 'Ibn Aṣbagh, Muḥammad ibn ʻĪsá', 'Amāsī, Muḥammad ibn Qāsim', 'Thaʻālibī, ʻAbd al-Malik ibn Muḥammad'])
+
+ar-Arab: (count: ['عثمان بن مصطفى كارمه, ناسخ', 'محمد اسعد افندى', 'ابن اصبغ، محمد بن عيسى', 'اماسي، محمد بن قاسم', 'ثعالبي، عبد الملك بن محمد'])
+
+en: (count: ['Baghawī, al-Ḥusayn ibn Masʻūd', 'Fashnī, Aḥmad ibn Ḥijāzī', 'Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad', 'Bayḍāwī, ʻAbd Allāh ibn ʻUmar'])
+
+ar-Arab: (count: ['بغوي، الحسين بن مسعود', 'فشني، احمد بن حجازي', 'ابو الليث السمرقندي، نصر بن محمد', 'بيضاوي، عبد الله بن عمر'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Jāmī', 'Ömer Sırrı, calligrapher'])
+
+ar-Arab: (count: ['جامى', 'عمر سرى، خطاط'])
+
+en: (count: ['ʻAbd al-ʻAzīz ibn Muḥsin, scribe, former owner', 'Aḥmad ibn al-Ḥusayn ibn Aḥmad Ikhmayyis al-Yarzūtī, scribe', 'Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad', 'Suyūṭī', 'Thaʻālibī, ʻAbd al-Raḥmān'])
+
+ar-Arab: (count: ['عبد العزيز بن محسن، ناسخ، مالك سابق', 'احمد بن الحسين بن احمد اخميس اليرزوتي، ناسخ', 'ابو الليث السمرقندي، نصر بن محمد', 'سيوطي،', 'ثعالبي، عبد الرحمن'])
+
+en: (count: ['Muḥammad ibn Aḥmad al-Zand al-Shāfiʻī al-Qādirī, scribe', 'Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad', 'Abū Ḥanīfah', 'Ghazzālī', 'Abū Isḥāq al-Tūnisī', 'Rifāʻī al-Baghdādī, Aḥmad ibn Khamīs ibn ʻAlī'])
+
+ar-Arab: (count: ['محمد بن احمد الزند الشافعي القادري, ناسخ', 'ابو الليث السمرقندي, نصر بن محمد', '.ابو حنيفة', 'غزالي', 'ابو اسحاق التونسي', 'رفاعي البغدادي, أحمد بن خميس بن علي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Bahmanyār ibn al-Marzubān, Abū al-Ḥasan', 'Suyūṭī, ʻAbd al-Raḥīm ibn ʻAbd al-Raḥmān', 'Ghazzālī', 'Suhrawardī, Yaḥyá ibn Ḥabash', 'Ṣadr al-Dīn al-Shīrāzī, Muḥammad ibn Ibrāhīm', 'ʻAbduʼl-Bahá', 'ʻAbd al-Razzāq al-Qāshānī', 'Dashtakī Shīrāzī, Ghiyāth al-Dīn Manṣūr', 'Dawwānī, Muḥammad ibn Asʻad'])
+
+ar-Arab: (count: ['مهمنيار بن المرزبان، ابو الحسن', 'بهمنيار بن المرزبان، ابو الحسن،', 'سيوطي، عبد الرحيم بن عبد الرحمن', 'غزالي', 'سهروردي، يحيى بن حبش', 'صدر الدين الشيرازي، محمد بن ابراهيم', 'عبد البهاء', 'عبد الرزاق القاشاني', 'دشتكي شيرازي، غياث الدين منصور', 'دواني، محمد بن اسعد'])
+
+en: (count: ['ابن سينا', 'Avicenna', 'Ghazzālī', 'Sharīf al-Raḍī, Muḥammad ibn al-Ḥusayn', 'Fārābī', 'ʻAlī ibn Abī Ṭālib, Caliph', 'Suyūṭī, ʻAbd al-Raḥīm ibn ʻAbd al-Raḥmān', 'Averroës', 'Aristotle', 'Bahmanyār ibn al-Marzubān, Abū al-Ḥasan', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm', 'Heyworth-Dunne, J. former owner'])
+
+ar-Arab: (count: ['غزالى', 'شريف الرضي، محمد بن الحسين', 'فارابي', 'علي بن ابي طالب، خليفة', 'سيوطي، عبد الرحيم بن عبد الرحمن', 'ابن رشد', 'اريسطو', 'بهمنيار بن المرزبان، ابو الحسن', 'ابن سينا', 'صدر الدن شىرازى، محمد بن ابراهيم'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Fārābī', 'Fanārī, Muḥammad ibn Ḥamzah', 'Ṣadr al-Dīn al-Qūnawī, Muḥammad ibn Isḥāq', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm', 'ʻAbduʼl-Bahá'])
+
+ar-Arab: (count: ['فارابي', 'فاناري, محمد بن حمزة', 'صدر الدين القونوي، محمد بن اسحاق', 'صدر الدين شيرازي، محمد بن ابراهيم', 'عبد البها'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Burhān al-Dīn ibn Aḥmad al-Ḥusaynī al-Maʻarrī al-Ḥalabī, scribe', 'Būnī, Aḥmad ibn ʻAlī', 'Abū Isḥāq Ibrāhīm ibn Yūsuf al-Awsī al-Andalusī al-Mursī, Ibn al-Marʼah', 'Shādhilī, Abū al-Ḥasan ʻAlī ibn ʻAbd Allāh'])
+
+ar-Arab: (count: ['برهان الدين بن احمد الحسيني المعري الحلبي, ناسخ', 'بوني، احمد بن علي', 'ابو اسحاق ابراهيم بن يوسف الاوسي الاندلسي المرسي، ابن المرأة', 'شاذلي، ابو الحسن علي بن عبد الله'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Anvarī, Awḥad al-Dīn'])
+
+ar-Arab: (count: ['انورى، اوحد الدين'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Averroës', 'Bax, Ernest Belfort'])
+
+ar-Arab: (count: ['ابن رشد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mīr ʻAbd al-Salām, patron, former owner', 'ʻAbd al-Raḥmān ibn ʻAbd Allāh, scribe'])
+
+ar-Arab: (count: ['مير عبد السلام, راع, مالك سابق', 'عبد الرحمن بن عبد الله, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Amīn al-Dīn Muḥammad al-Samarqandī, scribe'])
+
+ar-Arab: (count: ['امين الدين محمد السمرقندى, ناسخ'])
+
+en: (count: ['ʻArshī, scribe'])
+
+ar-Arab: (count: ['عرشي, ناسخ'])
+
+en: (count: ['Muḥammad ibn ʻAlī al-Zardanāwī, scribe'])
+
+ar-Arab: (count: ['محمد بن علي الزردناوي، ناسخ'])
+
+en: (count: ['Zanjānī, ʻAbd al-Wahhāb ibn Ibrāhīm'])
+
+ar-Arab: (count: ['زنجاني، عبد الوهاب بن إبراهيم'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa İzzet Efendi, calligrapher'])
+
+ar-Arab: (count: ['مصطفى عزت افندى، خطاط'])
+
+en: (count: ['Mustafa bin Abdullah, scribe', 'Erzurumlu İbrâhim Hakkı'])
+
+ar-Arab: (count: ['مصطفى بن عبد الله, ناسخ', 'ارضروملى ابراهيم حقى'])
+
+en: (count: ['Aḥmad ibn Dāwūd ibn Ayyūb ibn Aḥmad al-Jawraq, scribe'])
+
+ar-Arab: (count: ['احمد بن داوود بن ايوب بن احمد الجورق، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ghazzī, Badr al-Dīn Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['غزي, بدر الدين محمد بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'ʻAbd Allāh ibn Aḥmad al-Fasāʼī, scribe'])
+
+ar-Arab: (count: ['عبد الله بن احمد الفسايى، ناسخ'])
+
+en: (count: ['Ḥamd Allāh ibn Qavām al-Dīn Niẓām Bayāsānī, scribe', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['حمد الله بن قوام الدين نظام بياسانى، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ḥāfiẓ Yūsuf al-Bukhārī, patron', 'Tursūn Muḥammad ibn Musāfir Ṣarrāf, scribe'])
+
+ar-Arab: (count: ['حافظ يوسف البخارى, راع', 'ترسون محمد بن مسافر صراف, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Fayyāḍ, former owner', 'ʻAbd al-Rashīd al-Daylamī, scribe'])
+
+ar-Arab: (count: ['محمد فياض، مالك سابق', 'عبد الرشيد الديلمى، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Makhdūm Shaykh Burāq Ṣadīqī, former owner'])
+
+ar-Arab: (count: ['مخدوم شيخ براق صديقى، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa İzzet Efendi', 'Hasan Rıza Efendi, calligrapher, gilder'])
+
+ar-Arab: (count: ['قاضي عسكر مصفظى عزت افندى', 'حسن رضا افندى، خطاط، مذهب'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Fanārī, Muḥammad ibn Ḥamzah'])
+
+ar-Arab: (count: ['فناري، محمد بن حمزة'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Muḥammad Yūsuf al-Ṣafatī, former owner', 'Ṣafadī, Khalīl ibn Aybak'])
+
+ar-Arab: (count: ['محمد يوسف الصفتي، مالك سابق', 'صفدي، خليل بن ايبك'])
+
+en: (count: ['Muḥammad ibn Ismāʻīl ibn Maḥmūd, former owner', 'Ibrāhīm ibn Maḥmūd, scribe'])
+
+ar-Arab: (count: ['محمد بن اسماعيل بن محمود, مالك سابق', 'ابراهيم بن محمود, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', "O'Kinealy, J. former owner", 'Muḥsin al-Mulk Muḥammad Ḥusayn ʻAlīʹkhān Bahādur Ḥusayn Jang, former owner', 'Muḥammad ʻAṭā Ḥusayn, former owner', 'ʻAṭā Ḥusayn Khānʹṣāḥib, patron, former owner'])
+
+ar-Arab: (count: ['محسن الملك محمد حسين عليخان بهادر حسين جنگ, مالك سابق', 'محمد عطا حسين, مالك سابق', 'عطا حسين خانصاحب, راع, مالك سابق'])
+
+en: (count: ['Veysî', "ʻAṭā'ī, ʻAṭā Allāh ibn Yaḥyā", 'Sabrî', 'Azmîzade Mustafa Haletî', 'Ganîzâde Mehmet Nâdirî', 'Yahya Efendi', 'Riyâzî Mehmet'])
+
+ar-Arab: (count: ['ويسى', 'عطائى عطا الله بن يحيى', 'صبرى', 'عظمى زاده مصطفى حالتى', 'كنى زاده محمد نادرى', 'يحيى افندى', 'رياضى محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Rāghib, Muḥammad, compiler'])
+
+ar-Arab: (count: ['راغب محمد باشا. مصنف'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mehmet Hafid İbn Aşir, former owner'])
+
+ar-Arab: (count: ['محمد حفيد ابن عاشر، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hasan Edip, former owner', 'Cafer Fevzi bin Mehmet Raşit, former owner'])
+
+ar-Arab: (count: ['حسن اديب، مالك سابق', 'جعفر فوزى بن محمد راشد، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ḥāfiẓ Muḥammad al-Balkhī, scribe', 'Vefa, Şeyh'])
+
+ar-Arab: (count: ['حافظ محمد البلخي, ناسخ', 'وفا، شيخ،'])
+
+en: (count: ['Ömer bin Osman, scribe', "ʻAṭā'ī, ʻAṭā Allāh ibn Yaḥyā", 'Fanārī, Muḥammad ibn Ḥamzah'])
+
+ar-Arab: (count: ['عمر بن عثمان, ناسخ', 'عطائى، عطا الله بن يحيى', 'فنارى، محمد بن حمزه'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Bisṭāmī, ʻAbd al-Raḥmān ibn Muḥammad', 'Abū al-Saʻūd Muḥammad ibn Muḥammad', 'Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd'])
+
+ar-Arab: (count: ['بسطامي، عبد الرحمن بن محمد', 'ابو السعود محمد بن محمد', 'بوصيرى، شرف الدين محمد بن سعيد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Osman el-Üveysi, scribe'])
+
+ar-Arab: (count: ['عثمان الاويسى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ahmet Asım, scribe'])
+
+ar-Arab: (count: ['احمد عاصم, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mehmet bin Mahmut, scribe'])
+
+ar-Arab: (count: ['محمد بن محمود, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm', 'Fanārī, Muḥammad ibn Ḥamzah', 'Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['صدر الدين شيرازى، محمد بن ابراهيم', 'فناري, محمد بن حمزه', 'طوسي، نصير الدين محمد بن محمد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Fanārī, Muḥammad ibn Ḥamzah'])
+
+ar-Arab: (count: ['فاناري, محمد بن حمزة'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Naʻīm al-Dīn ibn Munʻim al-Dīn al-Awḥadī, scribe'])
+
+ar-Arab: (count: ['نعيم الدين بن منعم الدين الاوحدى, ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Sulaymān ibn ʻAbd al-Raḥmān al-Bujayrimī, scribe', 'Sakkākī, Yūsuf ibn Abī Bakr', 'Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd al-Raḥmān'])
+
+ar-Arab: (count: ['سليمان بن عبد الرحمن البجيرمي، ناسخ', 'سكاكي، يوسف بن ابي بكر،', 'قزويني، جلال الدين محمد بن عبد الرحمن'])
+
+en: (count: ['Aḥmad Muṣṭafá al-Salamūnī, former owner'])
+
+ar-Arab: (count: ['احمد مصطفى السلموني، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Rasihzade Hafidi Mustafa Asım, scribe'])
+
+ar-Arab: (count: ['راسخ زاده حفيدى مصطفى عاصم, ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Çelebi Celâlzade, translator'])
+
+ar-Arab: (count: ['مصطفى چلبى جلالزاده، مترجم'])
+
+en: (count: ['Salıh bin Ömer bin Selman bin Mehmet Efendi, scribe'])
+
+ar-Arab: (count: ['صالح بن عمر بن سلمان بن محمد افندى, ناسخ'])
+
+en: (count: ['Muḥammad Bakhsh ibn Muḥammad ʻAẓīm, scribe'])
+
+ar-Arab: (count: ['محمد بخش ابن محمد عظيم, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Reşit, former owner'])
+
+ar-Arab: (count: ['مصطفى رشيد, مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Fārābī', 'Bergson, Henri', 'Rand, Benjamin'])
+
+ar-Arab: (count: ['فارابي'])
+
+en: (count: ['Muḥammad Kamāl al-Dīn Ibn al-Kayyāl, scribe'])
+
+ar-Arab: (count: ['محمد كمال الدين ابن الكيال, ناسخ'])
+
+en: (count: ['Aḥmad ibn Yūsuf ibn ʻAbd Allāh al-Kawwāz al-ʻAbbāsī, former owner', 'Muḥammad Ibrāhīm ibn Zayn al-ʻĀbidīn al-Naṣīrī al-Ṭūsī, former owner', 'Ḥasan ibn Ghulām ʻAlī al-Najafī, scribe'])
+
+ar-Arab: (count: ['احمد بن يوسف بن عبد الله الكواز العباسي، مالك سابق', 'محمد ابراهيم بن زين العابدين النصيري الطوسي، مالك سابق', 'حسن بن غلام علي النجفي، ناسخ'])
+
+en: (count: ['Muḥammad Bahāʼ al-Dīn Abī al-Maʻālī, former owner', 'Sharaf al-Dīn Muḥammad Makkī ibn Muḥammad ibn Shams al-Dīn, former owner', 'ʻAbd al-Aʼimmah ibn Khalaf al-Karbalāʼī, scribe'])
+
+ar-Arab: (count: ['محمد بهاء الدين ابي المعالي, مالك سابق', 'شرف الدين محمد مكي بن محمد بن شمس الدين, مالك سابق', 'عبد الائمة بن خلف الكربلائي, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Çelebi Celâlzade, translator'])
+
+ar-Arab: (count: ['مصطفى چلبى جلالزاده، مترجم'])
+
+en: (count: ['Muṣṭafā ibn Muḥammad, scribe', 'Ibn Malak, Muḥammad ibn ʻAbd al-Laṭīf'])
+
+ar-Arab: (count: ['مصطفى بن محمد, ناسخ', 'ابن ملك، محمد بن عبد اللطيف'])
+
+en: (count: ['Hasen Rüştü bin Mehmet Süruri, former owner', 'Muḥammad ibn Aḥmad, patron, former owner', 'Yūsuf ibn Khiḍr ibn Muḥammad al-Bāqānī al-Ḥanbalī, scribe'])
+
+ar-Arab: (count: ['حسن رشدى بن محمد سرورى، مالك سابق', 'محمد بن احمد، راع، مالك سابق', 'يوسف بن خضر بن محمد الباقاني الحنبلي, ناسخ'])
+
+en: (count: ['Ḥājjī Aḥmad Aqā, publisher', 'Muḥammad Kāẓim, corrector', 'Muḥammad ibn Muḥammad Riz̤ā-yi Muz̲ahhib, scribe'])
+
+ar-Arab: (count: ['حاجى احمد اقا, ناشر', 'محمد كاظم, مصحح', 'محمد بن محمد رضاى مذهب, ناسخ'])
+
+en: (count: ['Hagop Kevorkian Fund, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ahmet bin Hüseyin, former owner', 'Aḥmad al-Ḥalabī al-Ḥanafī, scribe'])
+
+ar-Arab: (count: ['احمد بن حسين، مالك سابق', 'احمد الحلبي الحنفي, ناسخ'])
+
+en: (count: ['Hasen Rüştü bin Mehmet Süruri, former owner', 'Muḥammad ibn Aḥmad, patron, former owner', 'Yūsuf ibn Khiḍr ibn Muḥammad al-Bāqānī al-Ḥanbalī, scribe'])
+
+ar-Arab: (count: ['حسن رشدى بن محمد سرورى، مالك سابق', 'محمد بن احمد، راع، مالك سابق', 'يوسف بن خضر بن محمد الباقاني الحنبلي, ناسخ'])
+
+en: (count: ['ʻInāyat Allāh'])
+
+ar-Arab: (count: ['عنايت الله'])
+
+en: (count: ['Jawharī, Ismāʻīl ibn Ḥammād'])
+
+ar-Arab: (count: ['جوهري، اسماعيل بن حماد،'])
+
+en: (count: ['Ṣafī al-Dīn Ibrāhīm ibn Muḥammad ibn Aḥmad al-Fiqhī al-Murīdī, scribe'])
+
+ar-Arab: (count: ['صفي الدين ابراهيم بن محمد بن احمد الفقهي المريدي, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['ʻAlī ibn Khalīl ibn Amīn ibn Zakarīyā ibn ʻĪsá ibn Farrā Sulaymān, scribe'])
+
+ar-Arab: (count: ['علي بن خليل بن امين بن زكريا بن عيسى بن فرا سليمان, ناسخ'])
+
+en: (count: ['Yusuf Velî Davut, scribe'])
+
+ar-Arab: (count: ['يوسف بن ولى بن داوود، ناسخ'])
+
+en: (count: ["Mustafa Ali Ebü'l-Kasem, scribe"])
+
+ar-Arab: (count: ['مصطفى بن علي بن ابو القاسم, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Muṣṭafá ibn Aḥmad Afandī, former owner', 'Wazīrī, ʻAbd al-Ḥusayn ibn Naṣr Allāh, former owner', 'Muḥaqqiq al-Ḥillī, Jaʻfar ibn al-Ḥasan'])
+
+ar-Arab: (count: ['مصطفى بن احمد افندي، مالك سابق', 'وزيري، عبد الحسين بن نصر الله، مالك سابق', 'محقق الحلي، جعفر بن الحسن،'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ibrāhīm ibn ʻAbd Allāh, scribe', 'Maghnīsāwī, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['ابراهيم بن عبد الله, ناسخ', 'مغنيساوي، احمد بن محمد'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Aḥmad ibn Qāsim', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد بن قاسم'])
+
+en: (count: ['ʻAlī ibn Muṣṭafá, scribe'])
+
+ar-Arab: (count: ['علي بن مصطفى، ناسخ'])
+
+en: (count: ['Ghazzālī'])
+
+ar-Arab: (count: ['غزالي،'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Dawwānī, Muḥammad ibn Asʻad'])
+
+ar-Arab: (count: ['دواني، محمد بن اسعد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Sadeddin, Hoca, former owner', 'Mehmet Rıza, scribe, calligrapher'])
+
+ar-Arab: (count: ['محمد رضا, ناسخ, خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Zakarīyā Samarqandī, scribe, calligrapher'])
+
+ar-Arab: (count: ['محمد زكريا سمرقندى, ناسخ, خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mehmet Salih Ağa, former owner', 'İbrahim Ethem, former owner', 'Mehmet Emin Atıf, former owner'])
+
+ar-Arab: (count: ['محمد صالح اغا، مالك سابق', 'ابراهيم ادهم، مالك سابق', 'محمد امين عاطف، مالك سابق'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Asiatic Society (Kolkata, India) former owner', 'College of Fort William (Calcutta, India) former owner'])
+
+en: (count: ['Muḥammad ibn Aḥmad ibn Muḥammad ibn Ṣāliḥ al-ʻAnsī, patron, former owner', 'Ibn al-Murtaḍá, Aḥmad ibn Yaḥyá'])
+
+ar-Arab: (count: ['محمد بن احمد بن محمد بن صالح العنسي, راع، مالك سابق', 'ابن المرتضى, احمد بن يحيى'])
+
+en: (count: ['Maḥmūd al-Ruwayʻī al-Iskandarānī, former owner', 'Nūḥ ibn Muḥammad Qūrīchāy, scribe'])
+
+ar-Arab: (count: ['محمود الرويعي الاسكندراني، مالك سابق', 'نوح بن محمد قوريچاي، ناسخ'])
+
+en: (count: ['Kinānī, Muḥammad ibn ʻAlī ibn ʻArrāq'])
+
+ar-Arab: (count: ['كناني, محمد بن علي بن عراق'])
+
+en: (count: ['ʻAbd Allāh ibn Khalīl Chāvush, scribe', 'Fuzulî', 'Jāmī', 'Abū Ḥanīfah'])
+
+ar-Arab: (count: ['عبد الله بن خليل چاوش, ناسخ', 'فضولى', 'جامى', 'ابو حنيفة'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Aḥmad ibn Ḥasan, scribe'])
+
+ar-Arab: (count: ['احمد بن حسن، ناسخ'])
+
+en: (count: ['Aḥmad al-Hānī al-Hilālī, scribe', 'Sanūsī, Muḥammad ibn Yūsuf'])
+
+ar-Arab: (count: ['احمد الهاني الهلالي, ناسخ', 'سنوسي, محمد بن يوسف'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mihr ʻAlī Aẓīmābādī, scribe'])
+
+ar-Arab: (count: ['مهر على عظيم آبادى, ناسخ'])
+
+en: (count: ['Ibn Maḥmūd al-Rashshāsh al-Rifāʻī, scribe', 'ʻAmīdī, Rukn al-Dīn'])
+
+ar-Arab: (count: ['ابن محمود الرشاش الرفاعي, ناسخ', 'عميدي, ركن الدين'])
+
+en: (count: ['Saʻd ibn ʻAlī ibn Aḥmad ibn ʻAlī ibn Muslim ibn Sulaymān, scribe'])
+
+ar-Arab: (count: ['سعد بن علي بن احمد بن علي بن مسلم بن سليمان، ناسخ'])
+
+en: (count: ['Emir Ahmetzade Ali, scribe'])
+
+ar-Arab: (count: ['امير احمد زاده على،'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Muḥyī al-Dīn al-Kurdī, scribe'])
+
+ar-Arab: (count: ['محيي الدين الكردي، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'سلطان علي مشهدي, خطاط, ناسخ', 'Mashhadī, Sulṭān ʻAlī, calligrapher, scribe'])
+
+en: (count: ['Samarqandī, Abū al-Qāsim ibn Abī Bakr'])
+
+ar-Arab: (count: ['سمرقندي، ابو القاسم بن ابي بكر'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Lādhiqī, Shams al-Dīn Muḥammad ibn Muḥammad', 'Karpinski, Louis Charles, former owner', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['شمس الدين محمد بن محمد اللاذقي'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['ʻAbd al-Qādir ibn Yaḥyá ibn Jumaʻah al-Baṣīr al-Baṣrī', 'Ibn al-ʻImād, ʻAbd al-Ḥayy ibn Aḥmad'])
+
+ar-Arab: (count: ['عبد القادر بن يحيى بن جمعة البصير البصري', 'ابن العماد عبد الحي بن احمد'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Osman Şakir, scribe'])
+
+ar-Arab: (count: ['عثمان شاكر. ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Rukiye Suat bint Âli Paşa, former owner', 'Halil Cemşidizade Hafidi Lutuf Beyzade Yahya Muhittin former owner', 'Rūmī, Nūḥ ibn Muṣṭafá', 'Nabi'])
+
+ar-Arab: (count: ['رقيه سعاد بنت عالى پاشا, مالك سابق', 'خليل جمشدى زاده حفيدى لطف بك زاده يحيى محى الدين, مالك سابق', 'رومى، نوح بن مصطفى', 'نابي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Jāmī'])
+
+ar-Arab: (count: ['جامي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Reşit, former owner'])
+
+ar-Arab: (count: ['مصطفى رشيد، مالك سابق'])
+
+en: (count: ['ʻAbd al-Salām bin Mashīsh'])
+
+ar-Arab: (count: ['عبد السلام بن مشيش'])
+
+en: (count: ['Abū al-Saʻūd Muḥammad ibn Muḥammad', 'Karaçelebizade Abdülaziz'])
+
+ar-Arab: (count: ['ابو السعود محمد بن محمد', 'قره چلبي زاده عبد العزيز'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Abdulganî bin Hazır, scribe'])
+
+ar-Arab: (count: ['عبد الغنى بن خضر, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Bābā Valad Āghā Shihāb, scribe', 'Vaṭvāṭ, Rashīd al-Dīn Muḥammad ibn Muḥammad', 'Mīrzā Muḥammad Ismāʻīl'])
+
+ar-Arab: (count: ['بابا ولد اغا شهاب, ناسخ', 'وطواط, رشيد الدين محمد بن محمد', 'ميرزا محمد اسماعيل'])
+
+en: (count: ['Muḥammad ibn al-Shujāʻī Shāhīn al-Bishlāqī, scribe, former owner'])
+
+ar-Arab: (count: ['محمد ابن الشجاعي شاهين البشلاقي، ناسخ، مالك سابق'])
+
+en: (count: ['ʻAlī bin ʻAlī al-Kutubī, scribe'])
+
+ar-Arab: (count: ['علي بن علي الكتبي، ناسخ'])
+
+en: (count: ['Mehmet Ubeydullah Sadizade, former owner'])
+
+ar-Arab: (count: ['محمد عبيد الله سعدى زاده, مالك سابق'])
+
+en: (count: ['Suyūṭī'])
+
+ar-Arab: (count: ['سيوطي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Ḥusayn al-Ṭihrānī, scribe'])
+
+ar-Arab: (count: ['محمد حسين الطهرانى, ناسخ'])
+
+en: (count: ['‘Umar ibn Ismā‘īl'])
+
+ar-Arab: (count: ['عمر بن اسماعيل'])
+
+en: (count: ['Schulte, Frank J., former owner', 'Mīrzā Muḥammad Āṣif Munajjim, former owner', 'Mīr ʻAṭā Muḥammad, scribe', 'Quṭb al-Dīn Muḥammad ibn Ghiyās̲ al-Dīn', 'ʻAṭṭār, Farīd al-Dīn', 'Mahḥmūd Lāhūrī', 'Bukhārī, Sharaf al-Dīn', 'Saʻdī'])
+
+ar-Arab: (count: ['ميزا محمد آصف منجم, مالك سابق', 'مير عطا محمد, ناسخ', 'قطب الدين محمد بن غياث الدين', 'عطار, فريد الدين', 'محمود لاهورى', 'بخارى, شرف الدين', 'سعدى'])
+
+en: (count: ['Jighmīnī, Maḥmūd ibn Muḥammad', 'Karpinski, Louis Charles, former owner', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمود بن محمد الجغميني'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ṣābūnī, Muḥammad ibn Muḥammad, former owner', 'Bakhshī ibn Muṣṭafā al-Khāghalāʼī, scribe'])
+
+ar-Arab: (count: ['صابوني، محمد بن محمد، مالك سابق', 'بخشى بن مصطفى الخاغلائى، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Sefer Ali bin Hüdaverdi el-Kefevî, scribe, calligrapher'])
+
+ar-Arab: (count: ['سفر على بن خداوردى الكفوى, ناسخ, خطاط'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Āghā Mīrzā, scribe'])
+
+ar-Arab: (count: ['آغا ميرزا، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Ibn al-Hāʼim, Aḥmad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد بن محمد بن الهائم'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd', 'Ibn al-Fāriḍ, ʻUmar ibn ʻAlī'])
+
+ar-Arab: (count: ['بوصيري, شرف الدين محمد بن سعيد', 'ابن الفارص، عمر بن علي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad ʻAlī Tabrīzī, calligrapher, scribe'])
+
+ar-Arab: (count: ['محمد على تبريزى, خطاط, ناسخ'])
+
+en: (count: ['ʻAlī ibn Ibrāhīm, former owner'])
+
+ar-Arab: (count: ['علي بن ابراهيم, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ruthven, Alexander Grant, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ruthven, Alexander Grant, former owner'])
+
+en: (count: ['Shaṭṭī, ʻAbd al-Salām, former owner'])
+
+ar-Arab: (count: ['عبد السلام الشطي, مالك سابق'])
+
+en: (count: ['Osman bin Kuçuk Ahmetzade Ebubekir Efendi, former owner'])
+
+ar-Arab: (count: ['عثمان بن كجوك احمد زاده ابو بكر افندى، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yusuf bin Abdullah, former owner'])
+
+ar-Arab: (count: ['يوسف بن عبد الله، مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Mehmet Emin bin Munla Veli, former owner', 'Dawwānī, Muḥammad ibn Asʻad', 'Ghazzālī'])
+
+ar-Arab: (count: ['محمد امين بن منلا ولى, مالك سابق', 'دواني، محمد بن اسعد', 'غزالي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Şehri Emin Efendizade Mehmet Reşat, former owner', 'Mehmet Nuri Niyazi, scribe', 'Mehmet Nuri Niyazi'])
+
+ar-Arab: (count: ['شهرى امين افندى زاده محمد رشاد، مالك سابق', 'محمد نورى نيازى، ناسخ', 'محمد نورى نيازى'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Luṭf Allāh ibn Amān Allāh, scribe'])
+
+ar-Arab: (count: ['لطف الله بن امان الله، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Qāzābādī, Aḥmad ibn Muḥammad', 'Darendevi Hamza Efendi'])
+
+ar-Arab: (count: ['قازابادي، احمد بن محمد', 'دارندوى حمزه افندى'])
+
+en: (count: ['Tūnisī, Aḥmad', 'Sharīfī, Ḥasan', 'Ibn Ghāzī, Muḥammad ibn Aḥmad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['أحمد تونسي', 'حسن الشريفي', 'محمد بن أحمد بن غازي'])
+
+en: (count: ['Karpinski, Louis Charles, former owner', 'Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Khādimī, Muḥammad ibn Muṣṭafá', 'Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf', 'Mehmet Memiş Osmanzade, scribe'])
+
+ar-Arab: (count: ['خادمي، محمد بن مصطفى', 'جرجاني، علي بن محمد، السيد الشريف', 'محمد بن ممش بن عثمان زاده، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Razzāq al-Qāshānī', 'Ṣadr al-Dīn al-Shīrāzī, Muḥammad ibn Ibrāhīm', 'Iṣfahānī, Muḥammad Ismāʻīl ibn al-Sumayʻ', 'Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['عبد الرزاق القاشاني', 'صدر الدين الشيرازي، محمد بن ابراهيم', 'اصفهاني، محمد اسماعيل بن السميع', 'طوسي، نصير الدين محمد بن محمد'])
+
+en: (count: ['Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm', 'Heyworth-Dunne, J. former owner'])
+
+ar-Arab: (count: ['صدر الدن شيرازى، محمد بن ابراهيم'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['طوسي، نصير الدين محمد بن محمد'])
+
+en: (count: ['Osman bin Kuçuk Ahmetzade Ebubekir Efendi, former owner', 'Hüseyin Ömer Paşazade, former owner'])
+
+ar-Arab: (count: ['عثمان بن كوجك احمد زاده ابو بكر افندى، مالك سابق', 'حسين عمر پاشا، مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdürrahim Şeyhbenderzade, former owner', 'Muḥammad ibn Abī Bakr Ibn al-Miʻmārī, scribe', 'Suyūṭī', 'Tāfīlātī, Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['عبد الرحيم شيخبندر زاده, مالك سابق', 'محمد بن ابي بكر ابن المعماري, ناسخ', 'ابن اياس', 'تافيلاتي، محمد بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad ʻAlī ibn Muḥammad Ḥusayn al-Tabrīzī, scribe'])
+
+ar-Arab: (count: ['محمد على بن محمد حسين التبريزى، ناسخ'])
+
+en: (count: ['ʻUmar ibn Aḥmad ibn Shāhīn, scribe', 'Chillī, ʻUmar ibn Aḥmad al-Māʼī'])
+
+ar-Arab: (count: ['عمر بن احمد شاهين، ناسخ', 'چلي, عمر بن أحمد المائي'])
+
+en: (count: ['Ibn al-Majdī, Shihāb al-Dīn Abū al-ʻAbbās Aḥmad ibn Rajab al-Qāhirī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['شهاب الدين أبو العباس أحمد بن رجب القاهري بن المجدي'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Jaʻfar ibn Ḥājjī Muḥammad Ḥusayn al-Qummī, scribe'])
+
+ar-Arab: (count: ['جعفر بن حاجى محمد حسين القمى, ناسخ'])
+
+en: (count: ['Maqrīzī, Aḥmad ibn ʻAlī, scribe'])
+
+ar-Arab: (count: ['مقريوي, احمد بن علي, ناسخ'])
+
+en: (count: ['Maḥmūd ibn ʻAbd al-Raḥmān ibn ʻAlī ibn ʻAbd al-Karīm, scribe'])
+
+ar-Arab: (count: ['محمود بن عبد الرحمن بن علي بن عبد الكريم, ناسخ'])
+
+en: (count: ['Muḥammad ibn Muḥammad ibn Ḥasan ibn Abī Shāmah al-Ḥanbalī al-Dārānī, scribe'])
+
+ar-Arab: (count: ['محمد بن محمد بن حسن بن ابي شامه الحنبلي الداراني, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Vaḥshī Bāfqī', 'ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn', 'Naʻmat K̲h̲ān-i-ʻĀlī'])
+
+ar-Arab: (count: ['وحشى بافقى', 'عاملى, بهاء الدين محمد بن حسين', 'نعمت خان عالى'])
+
+en: (count: ['Mustafa bin Osman, former owner'])
+
+ar-Arab: (count: ['مصطفى بن عثمان، مالك سابق'])
+
+en: (count: ['Nuttall, Frank E., former owner'])
+
+en: (count: ['Meyerhof, Max, former owner', 'Abū al-Wajāhah al-Murshidī, ʻAbd al-Raḥmān ibn ʻĪsá'])
+
+ar-Arab: (count: ['ابو الوجاهة المرشجي، عبد الرحمن بن عيسى،'])
+
+en: (count: ['Mehmet Zuhuri, scribe'])
+
+ar-Arab: (count: ['محمد ظهورى، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Şehri Emin Efendizade Mehmet Reşat, former owner'])
+
+ar-Arab: (count: ['شهرى امين افندى زاده محمد رشاد, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Murshid al-Dīn ibn Ṣadr al-Dīn al-Mudhahhib, scribe, illuminator'])
+
+ar-Arab: (count: ['مرشد الدين ابن صدر الدين المذهب, ناسخ, مذهب'])
+
+en: (count: ['Şaban Efendi, scribe', 'Qārī al-Harawī, ʻAlī ibn Sulṭān Muḥammad'])
+
+ar-Arab: (count: ['شعبان افندى، ناسخ', 'قاري الهروي، علي بن سلطان محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Nusret, scribe'])
+
+ar-Arab: (count: ['نصرت, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ahmet bin Mustafa bin Ahmet Divani, former owner', 'Mahmut bin Hacı Mehmet, scribe', 'Shirwānī, Masʻūd ibn Ḥusayn', 'Kāshī, ʻImād al-Dīn Yaḥyá'])
+
+ar-Arab: (count: ['احمد بن مصطفى بن احمد ديوانى، مالك سابق', 'محمود بن حاجى محمد، ناسخ', 'شرواني، مسعود بن حسين', 'كاشي، عماد الدين يحيى'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Khayrʹshāhī, scribe'])
+
+ar-Arab: (count: ['محمد خير شاهى, ناسخ'])
+
+en: (count: ['Āqā Muḥammad al-Marāghī, scribe', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['آقا محمد المراغي, ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mīr Mahdī'])
+
+ar-Arab: (count: ['مير مهدى'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ahmet bin Mehmet bin Bâlî, scribe'])
+
+ar-Arab: (count: ['احمد بن محمد بن بالى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yaʻqūb Āshtiyānī al-Qummī, scribe'])
+
+ar-Arab: (count: ['يعقوب آشتيانى القمى, ناسخ'])
+
+en: (count: ['Birgivî Mehmet Efendi', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Ḥasan al-Rizq, former owner', 'Ḥalāwī, Muḥammad ibn Muḥammad, collator', 'Muḥammad ibn Khālid al-Raḥlāwī, scribe'])
+
+ar-Arab: (count: ['حسن الرزق، مالك سابق', 'حلاوي، محمد بن محمد، مقابل', 'محمد بن خالد الرحلاوي، ناسخ'])
+
+en: (count: ['Usṭuwānī, Muḥammad Saʻīd, former owner', 'Mustafa Bey bin Akif Bey, former owner', 'Muḥammad Saʻīd ibn ʻAlī al-Asadī, former owner'])
+
+ar-Arab: (count: ['اسطواني، محمد سعيد، مالك سابق', 'مصطفى بك بن عاكف بك، مالك سابق', 'محمد سعيد بن علي الاسدي، مالك سابق'])
+
+en: (count: ['Muḥammad ibn Aḥmad al-ʻAdī al-Khazrajī, scribe'])
+
+ar-Arab: (count: ['محمد بن احمد العدي الخزرجي، ناسخ'])
+
+en: (count: ['İbrahim bin Muharrem el-Bosnevî, former owner'])
+
+ar-Arab: (count: ['ابراهيم بن محرم البسنوي، مالك سابق'])
+
+en: (count: ['Rāfiʻī, ʻAbd al-Karīm ibn Muḥammad'])
+
+ar-Arab: (count: ['رافعي, عبد الكريم بن محمد'])
+
+en: (count: ['Samarqandī, Muḥammad ibn Ashraf', 'Qāḍīʹzādah, Mūsá ibn Muḥammad'])
+
+ar-Arab: (count: ['سمرقندي، محمد بن اشرف', 'قاضى زاده، موسى بن محمد'])
+
+en: (count: ['Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad'])
+
+ar-Arab: (count: ['إيجي، عضد الدين عبد الرحمن ابن أحمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad Ḥasan, former owner', 'Muḥammad Taqī, scribe'])
+
+ar-Arab: (count: ['محمد حسن, مالك سابق', 'محمد تقي, ناسخ'])
+
+en: (count: ['Ahmet Bahri Konavi, former owner'])
+
+ar-Arab: (count: ['احمد بحرى قنوى، مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mīrzā Jān, Ḥabīb Allāh, scribe'])
+
+ar-Arab: (count: ['ميرزا جان، حبيب الله، ناسخ'])
+
+en: (count: ['Jighmīnī, Maḥmūd ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمود بن محمد الجغميني'])
+
+en: (count: ['Jighmīnī, Maḥmūd ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمود بن محمد الجغميني'])
+
+en: (count: ['Lubūdī, Aḥmad ibn Khalīl, former owner', 'Abū Bakr ibn ʻAlāʼ al-Dīn al-Ṭunbughā, collator', 'Dabrī, Muḥammad ibn Shukr, scribe'])
+
+ar-Arab: (count: ['احمد بن خليل اللبودي، مالك سابق', 'ابو بكر بن علاء الدين الطنبغا، مقابل', 'دبري, محمد بن شكر ناسخ'])
+
+en: (count: ['Plotinus', 'Ṣadr al-Dīn al-Shīrāzī, Muḥammad ibn Ibrāhīm', 'Heyworth-Dunne, J. former owner'])
+
+ar-Arab: (count: ['صدر الدين الشيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Ḥasan al-Rizq, former owner', 'Ḥaṣan ibn Ṣāliḥ ibn Aḥmad, scribe'])
+
+ar-Arab: (count: ['حسن الرزق، مالك سابق', 'حسن بن صالح بن احمد, ناسخ'])
+
+en: (count: ['Rashīd ibn ʻAbbās Ibn al-Ṣaffār, former owner', 'Ismāʻīl ibn Muḥammad Riḍā al-Fashkalī, scribe, former owner'])
+
+ar-Arab: (count: ['رشيد بن عباس بن الصفار, مالك سابق', 'اسماعيل بن محمد رضا الفشكلى، ناسخ، مالك سابق'])
+
+en: (count: ['Agha Tsasanah, former owner', 'Tʻaghiadyan, Mesrop D. former owner', 'Karamanlı Nizâmî'])
+
+ar-Arab: (count: ['قرمانلى نظامى'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Nābulusī, ʻAbd al-Ghanī ibn Ismāʻīl'])
+
+ar-Arab: (count: ['نابلسي، عبد الغني بن اسماعيل'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['ʻAbd al-Ghafūr Shukrī, former owner', 'Qāzābādī, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['عبد الغفور شكري، مالك سابق', 'قاز آبادي، احمد بن محمد'])
+
+en: (count: ['Taghlabī, ʻAbd al-Qādir ibn ʻUmar, former owner', 'ʻAlī ibn ʻAbd al-Laṭīf al-Ayyūbī al-ʻAlamī al-Liddī, scribe'])
+
+ar-Arab: (count: ['تغلبي، عبد القادر بن عمر, مالك سابق', 'علي بن عبد اللطيف الايوبي العلمي اللدي، ناسخ'])
+
+en: (count: ['Nasafī, ʻUmar ibn Muḥammad'])
+
+ar-Arab: (count: ['نسفي، عمر بن محمد'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Aḥmad ibn Akhī Ṭawī, scribe', 'Muḥammad ibn Bāyazīd al-Tāshkandī'])
+
+ar-Arab: (count: ['احمد بن اخي طوي، ناسخ', 'محمد بن بايزيد التاشكندي'])
+
+en: (count: ['Shaʻbān ibn Ibrāhīm ibn Muṣṭafá, scribe'])
+
+ar-Arab: (count: ['شعبان بن ابراهيم بن مصطفى، ناسخ'])
+
+en: (count: ['ʻAbd Allāh ibn Kuzal, scribe'])
+
+ar-Arab: (count: ['عبد الله بن كزل، ناسخ'])
+
+en: (count: ['Jurjānī, ʻAbd al-Qāhir ibn ʻAbd al-Raḥmān', 'İsmail Ömer Abizade, scribe'])
+
+ar-Arab: (count: ['جرجاني، عبد القاهر بن عبد الرحمن', 'اسماعيل عمر ابى زاده، ناسخ'])
+
+en: (count: ['ʻAlī Kāshif Jamāl al-Dīn, al-Amīr, former owner', 'Mehmet Efendi, former owner', 'Ḥasan Badr ibn ‘Alī ibn Aḥmad al-Ujhūrī, scribe'])
+
+ar-Arab: (count: ['علي كاشف جمال الدين, الامير مالك سابق', 'محمد افندى، مالك سابق', 'حسن بدر بن علي بن احمد الاجهوري, ناسخ'])
+
+en: (count: ['Samarqandī, Muḥammad ibn Ashraf', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمد بن أشرف السمرقندي'])
+
+en: (count: ['Samarqandī, Muḥammad ibn Ashraf'])
+
+ar-Arab: (count: ['محمد بن أشرف السمرقندي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ibn Abī Jumhūr al-Aḥsāʼī, Muḥammad ibn ʻAlī'])
+
+ar-Arab: (count: ['ابن ابي جمهور الاحسائي, محمد بن علي'])
+
+en: (count: ['ʻAbd Allāh ibn ʻAbd al-Raḥmān ibn al-Shaykh ʻAjamʻzādah, former owner', 'Ahmet bin Ferhat, copyist'])
+
+ar-Arab: (count: ['عبد الله بن عبد الرحمن بن الشيخ عجم زاده, مالك سابق', 'احمد بن فرهاد، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Nuri Divan Efendi ibn Efendizade former owner'])
+
+ar-Arab: (count: ['مصطفى نورى ديوان افندى ابن افندى زاده، مالك سابق'])
+
+en: (count: ['İsmail Peyâsî, scribe', 'Mīrzā Jān, Ḥabīb Allāh'])
+
+ar-Arab: (count: ['اسماعيل الپياسى, ناسخ', 'ميرزا جان، حبيب الله'])
+
+en: (count: ['Ibn Abī al-Rijāl al-Shaybānī, ʻAlī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['علي بن أبي الرجال الشيباني'])
+
+en: (count: ['Qarajah Aḥmad', 'Bardaʻī, Muḥammad ibn Muḥammad', 'Porphyry'])
+
+ar-Arab: (count: ['قرجه احمد', 'بردعي، محمد بن محمد'])
+
+en: (count: ['Jighmīnī, Maḥmūd ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمود بن محمد الجغميني'])
+
+en: (count: ['Ḥājjī ʻAlī ibn Sayyid ʻAlī ibn Muḥammad, scribe', 'Saʻīd ibn Ḥājjī ibn Sayyid ʻAlī, scribe'])
+
+ar-Arab: (count: ['حاجي علي بن سيد علي بن محمد, ناسخ', 'سعيد بن حاجي بن سيد علي, ناسخ'])
+
+en: (count: ['Yaʻqūb ibn Saʻādat Yār, scribe', 'Muḥammad ibn Ḥājj Faraj, scribe'])
+
+ar-Arab: (count: ['يعقوب بن سعادت يار، ناسخ', 'محمد بن حاج فرج، ناسخ'])
+
+en: (count: ['Mehmet el-Emin, scribe'])
+
+ar-Arab: (count: ['محمد الامين, ناسخ'])
+
+en: (count: ['Mustafa Hasan Vafi', 'Ibn Masʻūd, Aḥmad ibn ʻAlī'])
+
+ar-Arab: (count: ['مصطفى بن حسن الوافي،', 'ابن مسعود، احمد بن علي'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Fanārī, Muḥammad ibn Ḥamzah', 'Nābulusī, ʻAbd al-Ghanī ibn Ismāʻīl'])
+
+ar-Arab: (count: ['فناري, محمد بن حمزة', 'نابلسي، عبد الغني بن اسماعيل'])
+
+en: (count: ['ʻAbd al-Qāʼim ibn Hudá al-Ḥusaynī, scribe'])
+
+ar-Arab: (count: ['عبد القائم بن هدى الحسينى, ناسخ'])
+
+en: (count: ['Muṣṭafá ibn Ḥasan, scribe'])
+
+ar-Arab: (count: ['مصطفى بن حسن، ناسخ'])
+
+en: (count: ['Mehmet Sait Efendizade Abdüssamet, former owner', 'Ibn Khayr al-Dīn Shāh Mīr Fatḥ Allāh Yaḥyá al-Ḥusaynī, scribe'])
+
+ar-Arab: (count: ['محمد سعيد بن عبد الصمد, مالك سابق', 'ابن خير الدين شاه مير فتح الله يحيى الحسيني، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Aḥmad ibn Muḥammad al-Ṭayyib, scribe'])
+
+ar-Arab: (count: ['احمد بن محمد الطيب، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Derviş Alizade Mustafa, former owner'])
+
+ar-Arab: (count: ['درويش على زاده مصطفى, مالك سابق'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn al-Shīrāzī, Muḥammad ibn Ibrāhīm'])
+
+ar-Arab: (count: ['صدر الدين الشيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Sibṭ al-Māridīnī, Badr al-Dīn Muḥammad ibn Muḥammad', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['بدر الدين محمد بن محمد سبط المارديني'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Hüseyin Hüsne, former owner'])
+
+ar-Arab: (count: ['حسين حسنى, مالك سابق'])
+
+en: (count: ['Khwājahʻzādah Aḥmad ibn Ḥusayn al-Qasṭamūnī, former owner', 'Mehmet Ösman, scribe', 'Ūshī, ʻAlī ibn ʻUthmān'])
+
+ar-Arab: (count: ['خواجه زاده احمد بن حسين القسطموني، مالك سابق', 'محمد بن عثمان، ناسخ', 'أوشى، علي بن عثمان'])
+
+en: (count: ['Ulugh Beg', 'Ibn Abī al-Rijāl al-Shaybānī, ʻAlī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['ألوغ بك.', 'علي بن أبي الرجال الشيباني'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Karīm al-Ḥusaynī, scribe'])
+
+ar-Arab: (count: ['كريم الحسيني, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Aḥmad ʻIrfān, former owner', 'Ḥusayn Rashīd, former owner', 'Ḥusayn ibn Shams al-Ḥusaynī al-Jurjānī, scribe'])
+
+ar-Arab: (count: ['احمد عرفان, مالك سابق', 'حسين رشيد, مالك سابق', 'حسين بن شمس الحسينى الجرجانى, ناسخ'])
+
+en: (count: ['Abū al-Qāsim ibn Āghā Jān, scribe'])
+
+ar-Arab: (count: ['ابو القاسم بن آغا جان, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Mustafa Zeki el-İstanbulî, former owner'])
+
+ar-Arab: (count: ['مصطفى زكى الاستانبولى, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm'])
+
+ar-Arab: (count: ['صدر الدين شيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Yedikuleli Seyit Abdullah, calligrapher'])
+
+ar-Arab: (count: ['يدى قله لى ، خطاط'])
+
+en: (count: ['Muḥammad Bakhsh ibn Muḥammad ʻAẓīm, scribe'])
+
+ar-Arab: (count: ['محمد بخش ابن محمد عظيم, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad ibn Ḥusayn Ṣafāhānī, scribe'])
+
+ar-Arab: (count: ['محمد بن حسين صفاهانى, ناسخ'])
+
+en: (count: ['ʻAlī ibn ʻAbdī, scribe, former owner'])
+
+ar-Arab: (count: ['علي بن عبدي، ناسخ، مالك سابق'])
+
+en: (count: ['Yūsuf Yuḥannā, scribe'])
+
+ar-Arab: (count: ['يوسف يحنا، ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Nabi'])
+
+ar-Arab: (count: ['نابي'])
+
+en: (count: ['Hayrullahzade Mehmet İbrahim, scribe'])
+
+ar-Arab: (count: ['خير الله زاده محمد ابراهيم, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Mustafa Reşit, former owner', 'Niẓām ibn Mīr ʻAlī, scribe'])
+
+ar-Arab: (count: ['مصطفى رشيد، مالك سابق', 'نظام ابن مير على, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad ibn Mullā Mīr al-Ustādī, scribe'])
+
+ar-Arab: (count: ['محمد بن ملا مير الاستادى, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Shāh Muḥammad al-Kātib, scribe'])
+
+ar-Arab: (count: ['شاه محمد الكاتب, ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abū Zakarīyā Yaḥya ibn Muḥammad ibn ʻAlī al-Kharrāṭī al-Farāwṣanī, patron', 'Muḥammad al-Saʻdī ibn Muḥammad al-Waghlīsī, scribe', 'Aḥmad ibn ʻAlī, scribe', 'Muḥammad ibn Muḥammad ibn Ibrāhīm al-ʻIyāḍī, scribe', 'Imām al-Ḥaramayn al-Juwaynī, ʻAbd al-Malik ibn ʻAbd Allāh', 'Abū ʻAbd Allah Muḥammad ibn Muḥammad ibn Maʻazzah al-Hawāribī'])
+
+ar-Arab: (count: ['ابو زكريا يحيى بن محمد بن علي الخراطي الفراوصني, راع', 'محمد السعدي بن محمد الوغليسي, ناسخ', 'احمد بن علي, ناسخ', 'محمد بن محمد بن ابراهيم العياضي, ناسخ', 'امام الحرمين الجويني، عبد الملك بن عبد الله', 'ابو عبد الله محمد بن محمد بن معزة الهواربي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Muḥammad Saʻīd, former owner, patron', 'Muḥammad ʻAlī, scribe'])
+
+ar-Arab: (count: ['محمد سعيد, مالك سابق, راع', 'محمد علي, ناسخ'])
+
+en: (count: ['Ḥasan al-Rizq, former owner', 'Dīrīnī, ʻAbd al-ʻAzīz'])
+
+ar-Arab: (count: ['حسن الرزق، مالك سابق', 'ديريني، عبد العزيز'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ibn al-Jazarī, Muḥammad ibn Muḥammad'])
+
+ar-Arab: (count: ['ابن الجزري, محمد بن محمد'])
+
+en: (count: ['Cennetzade İsmail Muyhi bin Mehmet Ragıp, former owner'])
+
+ar-Arab: (count: ['جنت زاده اسماعيل محيى بن محمد راغب، مالك سابق'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Hacı Mehmet Rasih Efendizade Yusuf Cemîş Bey, former owner'])
+
+ar-Arab: (count: ['حاجى محمد راسخ افندى زاده يوسف جميش بك, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Ḥusayn Ibrāhīm ibn Muḥammad al-Ḥusaynī al-Khurāsānī, scribe'])
+
+ar-Arab: (count: ['حسين ابراهيم ابن محمد الحسيني الخراساني، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ṣadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm'])
+
+ar-Arab: (count: ['صدر الدين شيرازي، محمد بن ابراهيم'])
+
+en: (count: ['Osman bin Kuçuk Ahmetzade Ebubekir Efendi, former owner', 'Hamza bin Turgut Aydınî'])
+
+ar-Arab: (count: ['عثمان بن كوجك احمد زاده ابو بكر افندى، ناسخ', 'حمزة بن درغود آيدينى'])
+
+en: (count: ['Muḥammad ibn Aḥmad ibn ʻAlī al-Qārī al-Tibrīzī, scribe'])
+
+ar-Arab: (count: ['محمد بن احمد بن علي القاري التبريزي، ناسخ'])
+
+en: (count: ['Nuttall, Frank E., former owner', 'Mumtāz al-Dawlah Amīr al-Mulk Sayyid Mīr Khān Bahādur al-Ḥusaynī Ṣamṣām Jang, former owner'])
+
+ar-Arab: (count: ['ممتاز الدوله امير الملك سيد مير خان بهادر الحسينى صمصام جنگ, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Avicenna'])
+
+ar-Arab: (count: ['ابن سينا'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ʻAbd al-Razzāq al-Qāshānī', 'Averroës'])
+
+ar-Arab: (count: ['عبد الرزاق القاشاني', 'ابن رشد'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Ibn Miskawayh, Aḥmad ibn Muḥammad'])
+
+ar-Arab: (count: ['ابن مسكويه، احمد بن محمد'])
+
+en: (count: ['Muḥammad Saʻīd, former owner', 'Fakhr al-Dīn ʻAbd Allāh ibn ʻAlī ibn ʻIzz al-Dīn al-Akwaʻ, patron', 'Ibn Ḥashr, al-Ḥusayn ibn Aḥmad ibn Muḥammad ibn Aḥmad, scribe', 'Muḥammad ibn ʻAbd Allāh ibn Ṣalāḥ ibn ʻAbd al-Khāliq ibn Jaḥḥāf al-Qāsimī, scribe', 'Fanārī, Ḥasan ibn Muḥammad Shāh'])
+
+ar-Arab: (count: ['محمد سعيد, مالك سابق', 'فخر الدين عبد الله بن علي بن عز الدين الاكوع، راع', 'ابن حشر, الحسين بن احمد بن محمد بن احمد, ناسخ', 'محمد بن عبد الله بن صلاح بن عبد الخالق بن جحاف القاسمي، ناسخ', 'فناري، حسن بن محمد شاه'])
+
+en: (count: ['Mehmet Yeğen Muftizade, scribe'])
+
+ar-Arab: (count: ['محمد يكن مفتى زاده، ناسخ'])
+
+en: (count: ['Muḥammad ibn Muḥammad al-Jabalāwī, scribe'])
+
+ar-Arab: (count: ['محمد بن محمد الجبلاوي، ناسخ'])
+
+en: (count: ['Muḥammad ibn ʻUmar al-Isbarī, scribe'])
+
+ar-Arab: (count: ['محمد بن عمر الاسبري، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Muḥammad ʻĀrif former owner', 'Muḥammad Amīn ibn Muḥammad Muʼmin Shīrāzī, former owner', 'Muḥammad Masīḥ Shīrāzī, scribe'])
+
+ar-Arab: (count: ['محمد عارف، مالك سابق', 'محمد امين ابن محمد مؤمن شيرازى، مالك سابق', 'محمد مسيح شيرازى، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'ابن مسكويه، احمد بن محمد', 'Ibn Miskawayh, Aḥmad ibn Muḥammad'])
+
+en: (count: ['Ibn Nujaym, Zayn al-Dīn ibn Ibrāhīm'])
+
+ar-Arab: (count: ['ابن نجيم, زين الدين بن ابراهيم'])
+
+en: (count: ['Sâmî, former owner', 'Miftahizade Mustafa bin Hasan, scribe', 'Kâtip Çelebi'])
+
+ar-Arab: (count: ['آرپا امين زاده مصطفى سامى، مالك سابق', 'مفتاحى زاده مصطفى بن حسن. ناسخ', 'كاتب جلبي'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'Abdullah eş-Şehri bin Mehmet, scribe'])
+
+ar-Arab: (count: ['عبد الله الشهري بن محمد. ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner'])
+
+en: (count: ['Ibrāhīm ibn al-Ḥājī Ramaḍān, scribe'])
+
+ar-Arab: (count: ['ابراهيم بن الحاجي رمضان، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner', 'جامى', 'Jāmī'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Manīnī, Aḥmad ibn ʻAlī, former owner', 'Aḥmad ibn ʻAlī ibn Aḥmad al-Kūfī al-Hamadānī, scribe'])
+
+ar-Arab: (count: ['منيني، احمد بن علي، مالك سابق', 'احمد بن علي بن احمد الكوفي الهمداني، ناسخ'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Hafız Ahmet, scribe'])
+
+ar-Arab: (count: ['حافظ احمد، ناسخ'])
+
+en: (count: ['Marghīthī, Muḥammad ibn Saʻīd al-Sūsī', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['محمد بن سعيد السوسي المرغيثي'])
+
+en: (count: ['ʻAbd al-Razzāq al-Qāshānī', 'Ibn al-ʻArabī', 'Heyworth-Dunne, J. former owner'])
+
+ar-Arab: (count: ['عبد الرزاق القاشاني', 'ابن العربي'])
+
+en: (count: ['Muṣṭafá ibn Aḥmad, scribe'])
+
+ar-Arab: (count: ['مصطفى بن احمد, ناسخ'])
+
+en: (count: ['Meyerhof, Max, former owner', 'Osman Zeki, scribe', 'Hekîmbaşı Abdülaziz Efendî'])
+
+ar-Arab: (count: ['عثمان زكى, ناسخ', 'حكيم باشى عبد العزيز افندى'])
+
+en: (count: ['Hacı Süleyman, scribe', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['حاجى سليمان, ناسخ'])
+
+en: (count: ['Muḥammad Aḥmad al-Laqānī, former owner', 'ʻAlī Abū Bakr al-Khashshāb al-Falakī al-Dimyāṭī, former owner', 'Cassini, César-François'])
+
+ar-Arab: (count: ['محمد احمد اللقانى, مالك سابق', 'على ابو بكر الخشاب الفلكى الدمياطى, مالك سابق'])
+
+en: (count: ['Muḥammad Naṣr al-Dīn ibn ʻIbād Allāh, former owner', 'Abdülhamid II, Sultan of the Turks, former owner'])
+
+ar-Arab: (count: ['محمد نصر الدين بن عباد الله, مالك سابق'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Muḥammad Naqī ibn Muẓaffar ʻAlī Parchvānī ʻAlīyānī, scribe'])
+
+ar-Arab: (count: ['محمد نقى بن مظفر على پرچوانى عليانى، ناسخ'])
+
+en: (count: ['Heyworth-Dunne, J. former owner', 'Kindī', 'Ibn Nāʻimah, ʻAbd al-Masīḥ ibn ʻAbd Allāh', 'Porphyry', 'Plotinus'])
+
+ar-Arab: (count: ['كندي', 'ابن ناعمة, عبد المسيح بن عبد الله'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Abdülhamid II, Sultan of the Turks, former owner'])
+
+en: (count: ['Shirwānī al-Rūmī, Kamāl al-Dīn Masʻūd ibn Ḥusayn', 'Samarqandī, Muḥammad ibn Ashraf', 'Meyerhof, Max, former owner'])
+
+ar-Arab: (count: ['كمال الدين مسعود بن حسين الشرواني الرومي', 'محمد بن أشرف السمرقندي'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+en: (count: ['Meyerhof, Max, former owner'])
+
+859 of 1039 records have the cho_contributor value

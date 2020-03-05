@@ -1,0 +1,1069 @@
+ar-Arab: (count: ['Fatḥ al-qarīb taḥṣīl Kitāb al-Tahdhīb', 'Kawkab al-ishrāq taqrīb Kitāb Tahdhīb al-akhlāq'])
+
+ar-Arab: (count: ['Kitāb al-Taysīr wa-al-tashīl'])
+
+ar-Arab: (count: ['Tuhfe-yi Haremeyn'])
+
+en: (count: ['Dīvān'])
+
+ar-Arab: (count: ['Dīvān-i Khvājah Ḥāfiẓ'])
+
+en: (count: ['Vāmiq va ʻAẕrā'])
+
+en: (count: ['Wāfī fī al-furūʻ'])
+
+en: (count: ['Vesîletüʼn-necat'])
+
+en: (count: ['Wasīlat al-ṭullāb wa-nuzhat al-albāb ilá maʻrifat al-awqāt bi-al-ḥisāb'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Wiqāyat al-riwāyah'])
+
+ar-Arab: (count: ['كتاب اليواقيت والجواهر'])
+
+en: (count: ['Yūsuf va Zulaykhā'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Zubdat al-uṣūl'])
+
+en: (count: ['ʻAjāʼib al-makhlūqāt'])
+
+ar-Arab: (count: ['Mecmua-yi nefise'])
+
+en: (count: ['ʻUmdat al-bayān fī maʻrifat farāʼiḍ al-aʻyān'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Divan'])
+
+ar-Arab: (count: ['ديوان نابى', 'ديوان شيرين اداى نابى'])
+
+en: (count: ['Dīvān-i Shams-i Tabrīzī'])
+
+ar-Arab: (count: ['Dīvān-i sulṭān al-ʻārifīn Mawlānā Jalāl al-Dīn al-Rūmī'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Dīwān al-ḥaqāʼiq wa-majmūʻ al-raqāʼiq'])
+
+ar-Arab: (count: ['ديوان سيدي علي الوفائي'])
+
+en: (count: ['Poems'])
+
+ar-Arab: (count: ['ديوان المتنبي'])
+
+en: (count: ['Durar al-ḥukkām'])
+
+ar-Arab: (count: ['فضائل الرمي'])
+
+en: (count: ['Miṣbāḥ al-uns bayna al-maʻqūl wa-al-mashhūd'])
+
+ar-Arab: (count: ['ترجمۀ منظوم چهل حدیث'])
+
+ar-Arab: (count: ['شرح حزب البحر'])
+
+en: (count: ['Muʻrib al-Kāfiyah'])
+
+en: (count: ['Fawāʼid al-Ḍiyāʼīyah'])
+
+en: (count: ['Fetava-yı Ataullah'])
+
+ar-Arab: (count: ['ترجمۀ منظوم چهل حدیث'])
+
+en: (count: ['Tafsīr-i Nabī'])
+
+en: (count: ['Iṣṭilāḥāt al-Ṣūfīyah'])
+
+ar-Arab: (count: ['Ḥāshiyat al-ʻallāmah al-shaykh al-Jamal ʻalá al-Hamzīyah'])
+
+en: (count: ['Gayhānʹshinākht'])
+
+ar-Arab: (count: ['ترجمۀ منظوم چهل حدیث'])
+
+en: (count: ['Ishārāt wa-al-tanbīhāt'])
+
+en: (count: ['Gulistān'])
+
+en: (count: ['Tārīkh-i ḥabīb al-siyar'])
+
+en: (count: ['Tārīkh-i ḥabīb al-siyar'])
+
+en: (count: ['Kashf al-asrār ʻan ʻilm ḥurūf al-ghubār'])
+
+en: (count: ['Mujlī'])
+
+ar-Arab: (count: ['Mujallī'])
+
+en: (count: ['Mumtiʻ fī sharḥ rajaz al-muqniʻ fī ʻilm Abī Miqraʻ'])
+
+en: (count: ['Bahjah'])
+
+en: (count: ['Mawārid al-ladunīyah fī sharḥ al-‘Aynīyah'])
+
+en: (count: ['Kitāb al-Maẓāhir al-ilāhīyah'])
+
+en: (count: ['Irjāʻ al-baṣar fī al-ʻilm bi-hayʾat al-aflāk li-man abṣar wa-istabṣar'])
+
+en: (count: ['Ṣurāḥ al-lughah'])
+
+en: (count: ['Daqāʼiq al-akhbār fī dhikr al-jannah wa-al-nār'])
+
+en: (count: ['Fayṣal al-tafriqah bayna al-Islām wa-al-zandaqah'])
+
+en: (count: ['Hidāyat al-murīd li-Jawharat al-tawḥīd'])
+
+en: (count: ['Hidāyat ūlī al-baṣāʾir wa-al-abṣār ilá maʻrifat ajzāʾ al-layl wa-al-nahār'])
+
+en: (count: ['Hidāyat ūlī al-baṣāʾir wa-al-abṣār ilá maʻrifat ajzā al-layl wa-al-nahār'])
+
+en: (count: ['Kunūz al-ḥaqāʼiq fī Ḥadīth Khayr al-khalāʼiq'])
+
+en: (count: ['Qiṣaṣ al-anbiyāʼ'])
+
+en: (count: ['Sharḥ ʻalá al-Taṣrīf al-ʻIzzī'])
+
+en: (count: ['Tanbīh al-anām wa-shifāʼ al-asqām fī bayān ‘ulūw maqām nabīyinā Muḥammad ʻalayhi al-salām'])
+
+ar-Arab: (count: ['Shifāʼ al-asqām wa-maḥw al-āthām fī al-ṣalāh ʻalá khayr al-anām', 'Tanbīh al-anām fī bayān ‘ulūw maqām nabīyinā Muḥammad ʻalayhi afḍal wa-ʼazká al-salām'])
+
+en: (count: ['Sharḥ al-mulakhkhaṣ'])
+
+en: (count: ['Fuṣūṣ al-ḥikam'])
+
+en: (count: ['Miʻrāj al-Nabī'])
+
+en: (count: ['Mughnī al-labīb'])
+
+en: (count: ['Sharḥ al-lumʻah fī ḥall al-sabʻah'])
+
+en: (count: ['Bughyat al-ṭullāb fī sharḥ munyat al-ḥussāb'])
+
+en: (count: ['Hadīyat al-ṣuʻlūk sharḥ Tuḥfat al-mulūk'])
+
+ar-Arab: (count: ['Hadis-i erbain'])
+
+en: (count: ['Ṭibb al-nabawī'])
+
+en: (count: ['ʻUmdat al-dhākir li-waḍʻ khuṭūṭ faḍl al-dāʾir'])
+
+en: (count: ['Hidāyat al-sāʾil fī al-ʻamal bi-al-rubʻ al-kāmil'])
+
+en: (count: ['Ḥāshiyat al-Burdah'])
+
+en: (count: ['Ḥikmah al-ʻarshīyah'])
+
+en: (count: ['Hādhihi malāḥim muntakhabah min malāḥim Dānyāl yastadillu bi-hā ʻalá ishārāt ḥaqīqīyah tataʻallaqa bi-al-sanah al-ʻarabīyah'])
+
+en: (count: ['Natījat al-afkār fī aʻmāl al-layl wa-al-nahār'])
+
+en: (count: ['al-Zawrāʾ'])
+
+en: (count: ['Raqāʾiq al-ḥaqāʾiq fī maʻrifat al-daraj wa-al-daqāʾiq'])
+
+en: (count: ['ʻIqd al-jawhar al-thamīn fī arbaʻīn ḥadīthan min aḥādīth Sayyid al-Mursalīn'])
+
+en: (count: ['Tadrīb al-ʻāmil fī al-ʻamal bi-al-rubʻ al-kāmil'])
+
+en: (count: ['Ṣafḥah fī al-asṭurlāb'])
+
+en: (count: ['Zād al-musāfir li-maʻrifat rasm faḍl al-dāʾir'])
+
+en: (count: ['Taʻlīqāt'])
+
+en: (count: ['Tuḥfat al-albāb fī bayān ḥukm dhawāt al-adhnāb'])
+
+en: (count: ['Tuḥfat al-murīdīn bi-sharḥ wasīlat al-mubtadiʾīn'])
+
+en: (count: ['Kitāb al-waṣāyā'])
+
+en: (count: ['Ḥadīqat al-suʻadā'])
+
+en: (count: ['Ḥadīqat al-ḥaqīqah wa-sharīʻat al-ṭarīqah'])
+
+en: (count: ['Arbaʻīn-i Jāmī'])
+
+ar-Arab: (count: ['ترجمۀ منظوم چهل حدیث'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['Sharḥ al-Wiqāyah'])
+
+ar-Arab: (count: ['شرح الوقاية'])
+
+en: (count: ['Sharḥ al-Wiqāyah'])
+
+en: (count: ['Khamsa'])
+
+en: (count: ['Ḥāshiyat Mīrzā Jān ʻalá Sharḥ Ḥikmat al-ʻayn'])
+
+ar-Arab: (count: ['Ḥāshiyat al-Ḥaṭṭāb ʻalá Risālat Ibn Abī Zayd'])
+
+ar-Arab: (count: ['فوائد الخبازية'])
+
+ar-Arab: (count: ['سيد شريف على المطول', 'حاشية سيد الشريف على المطول'])
+
+en: (count: ['Ḥāwī al-mukhtaṣarāt fī al-ʻamal bi-rubʻ al-muqanṭarāt'])
+
+en: (count: ['Ḥadīqat al-suʻadā'])
+
+en: (count: ['Dīvān'])
+
+ar-Arab: (count: ['Cild-i evvel-i Tarih-i Vassâf fî şerhe'])
+
+en: (count: ['Kaside-yi Münferice şerhi'])
+
+ar-Arab: (count: ['شرح قصيدۀ منفرجه'])
+
+en: (count: ['Kalimāt al-maḍnūnah bi-hā ʻan ghayr ahlihā'])
+
+ar-Arab: (count: ['Iṣṭilāḥat al-sādah al-Ṣūfīyah'])
+
+en: (count: ['Ifṣāḥ'])
+
+ar-Arab: (count: ['اخلاق المحسنين', 'كتاب اخلاق المحسنين'])
+
+en: (count: ['Irshād al-ṭālibīn'])
+
+en: (count: ['Irshād al-ḥāʾir ilá takhṭīṭ faḍl al-dāʾir'])
+
+en: (count: ['Iʻrāb al-Ṭāriqiyyah wa maʻa-hu iʻrāb āyat al-kursī'])
+
+en: (count: ['Jāmiʻ al-ṣaḥīḥ'])
+
+ar-Arab: (count: ['جامع الفتاوى'])
+
+ar-Arab: (count: ['فتاوى الكدري', 'فتاوى البزازية', 'كتاب فتاوى البزازية', 'بزازية'])
+
+en: (count: ['Jāmiʻ al-wajīz'])
+
+ar-Arab: (count: ['فتاوى البزازية'])
+
+en: (count: ['Kitāb fī jawāmiʻ ʻilm al-nujūm wa-uṣūl al-ḥarakāt al-samāwīyah'])
+
+en: (count: ['Jawharah al-Nayyirah'])
+
+en: (count: ['Maʻālim al-tanzīl'])
+
+en: (count: ['Ḥāshiyat Shaykhʻzādah ʻalá al-Bayḍāwī'])
+
+en: (count: ['Ḥāshiyat Shaykhʻzādah ʻalá al-Bayḍāwī'])
+
+en: (count: ['Ḥāshiyat Shaykhʻzādah ʻalá al-Bayḍāwī'])
+
+en: (count: ['Ḥāshiyat Shaykhʻzādah ʻalá al-Bayḍāwī'])
+
+en: (count: ['Maʻālim al-tanzīl'])
+
+en: (count: ['Kashshāf'])
+
+ar-Arab: (count: ['جلد الثاني في تفسير الكشاف اول سورة الاعراف الى اخر سورة لقمان'])
+
+en: (count: ['Ḥāshiyat Shaykhʻzādah ʻalá al-Bayḍāwī'])
+
+en: (count: ['Sharḥ Majmaʻ al-baḥrayn'])
+
+ar-Arab: (count: ['جلد ثاني في شرح مجمع البحرين', 'كتاب شرح مجمع البحرين جلد ثاني'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+en: (count: ['Iʻlām bi-aʻlām Bayt Allāh al-Ḥarām'])
+
+en: (count: ['Futūḥāt al-rabbānīyah'])
+
+ar-Arab: (count: ['شرح الاذكار'])
+
+en: (count: ['Irshād al-ʻaql al-salīm'])
+
+ar-Arab: (count: ['تفسير ابي السعود'])
+
+en: (count: ['Hidāyah'])
+
+en: (count: ['Sharḥ Majmaʻ al-baḥrayn'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+en: (count: ['Kashshāf'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['جزء الحادي والعشرون من سيرة اسد الفوارس'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-ḥādī ʻashar min Sīrat al-Malik Asad al-Fawāris'])
+
+en: (count: ['Mukhtalaf al-Shīʻah fī aḥkām al-sharīʻah'])
+
+en: (count: ['Irshād al-sārī'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-khāmis min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-khāmis ʻashar min Sīrat Asad al-Fawāris'])
+
+ar-Arab: (count: ['معالم التنزيل الرابع'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-rābiʻ min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Jāmiʻ li-aḥkām al-Qurʼān'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['جزء الرابع والعشرون من سيرة الملك اسد الفوارس'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-rābiʻ ʻashar min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-sābiʻ min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-sābiʻ ʻashar min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-sādis min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-sādis ʻashar min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-tāsiʻ min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-tāsiʻ ʻashar min Sīrat Fāris al-ʻIrāq'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-thālith min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['جزء الثالث والعشرون من سيرة فارس العراق من زلزل سائر الافاق الفارس الممارس الملك اسد الفوارس'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-thālith ʻashar min Sīrat al-Malik Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-thāmin min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-thāmin ʻashar min Sīrat al-Malik Asad al-Fawāris'])
+
+en: (count: ['Futuḥāt al-rabbānīyah'])
+
+ar-Arab: (count: ['شرح الاذكار الجزء الثاني'])
+
+en: (count: ['ʻInāyah ʻalá al-Hidāyah'])
+
+en: (count: ['Anwār al-tanzīl wa-asrār al-taʼwīl'])
+
+en: (count: ['Irshād al-ʻaql al-salīm'])
+
+en: (count: ['Khulāṣat al-fatāwá'])
+
+ar-Arab: (count: ['خلاصة الفتاوي'])
+
+en: (count: ['Rawḍ al-fāʼiq fī al-mawāʻiẓ wa-al-raqāʼiq'])
+
+en: (count: ['Sunan'])
+
+ar-Arab: (count: ['سنن ابي داود'])
+
+en: (count: ['Mafātīḥ al-ghayb'])
+
+en: (count: ['Majmaʻ al-anhur sharḥ Multaqá al-abḥur'])
+
+en: (count: ['Naẓm al-Jāmiʻ al-kabīr'])
+
+en: (count: ['Majrá al-anhur ʻalá Multaqá al-abḥur'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-thānī min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Tatimmat al-Mukhtaṣar fī akhbār al-bashar'])
+
+ar-Arab: (count: ['تاريخ ابن الوردي جزء ثاني'])
+
+en: (count: ['Tuḥfat al-ṭullāb wa-al-aḥbāb fī ṣifat manāfiʻ al-sharāb'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['جزء الثاني والعشرون من سيرة اسد الفوارس'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-thānī ʻashar min Sīrat Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['Juzʼ al-ʻāshir min Siyar Asad al-Fawāris'])
+
+en: (count: ['Sīrat Fāris al-ʻIrāq'])
+
+ar-Arab: (count: ['جزء العشرون من سيرة اسد الفوارس'])
+
+en: (count: ['Dhakhīrah al-Burhānīyah'])
+
+en: (count: ['Baḥr al-ʻulūm'])
+
+en: (count: ['Minhāj fī sharḥ Ṣaḥīḥ Muslim'])
+
+ar-Arab: (count: ['منهاج المحدثين وسبيل تلبية المحققين', 'منهاج في شرح مسلم بن الحجاج', 'شرح صحيح مسلم'])
+
+en: (count: ['Jāmiʻ al-ṣaḥīḥ'])
+
+en: (count: ['Jāmiʻ al-uṣūl li-aḥādīth al-Rasūl'])
+
+ar-Arab: (count: ['جامع الاصول في احاديث الرسول'])
+
+en: (count: ['Kāfiyah'])
+
+en: (count: ['Kāfiyah'])
+
+ar-Arab: (count: ['Ghunyat al-ṭālibīn wa-ghunyat al-rāghibīn'])
+
+en: (count: ['Kashf al-wujūh al-ghurr li-maʻānī Naẓm al-durr'])
+
+en: (count: ['Kāshif li-adʻiyat al-nabī al-akram fī sharḥ al-Ḥizb al-aʻẓam'])
+
+en: (count: ['Burdah'])
+
+en: (count: ['Burdah'])
+
+en: (count: ['Burdah'])
+
+ar-Arab: (count: ['ترياق الفاروقي من منشآت الفاروقي'])
+
+en: (count: ['Burdah'])
+
+en: (count: ['Burdah'])
+
+ar-Arab: (count: ['حكم المواعظ'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+ar-Arab: (count: ['خزانة الفتاوى'])
+
+en: (count: ['Khamsah'])
+
+ar-Arab: (count: ['Khulāṣah-i Khamsah-i Niẓāmī'])
+
+ar-Arab: (count: ['خلاصة الافكار', 'تذكره خلاصة الافكار'])
+
+en: (count: ['Khamsah'])
+
+ar-Arab: (count: ['خلاصه خمسه نظامى'])
+
+en: (count: ['Kifāyat al-qanūʻ fī al-ʻamal bi-al-rubʻ al-maqṭūʻ'])
+
+en: (count: ['Kīmiyā-yi saʻādat'])
+
+ar-Arab: (count: ['بصائر الدرجات في علوم آل محمد'])
+
+en: (count: ['Akhbār al-duwal wa-āthār al-uwal'])
+
+en: (count: ['Adhkār'])
+
+en: (count: ['Alfīyat al-ʻIrāqī'])
+
+en: (count: ['Ashbāh wa-al-naẓāʼir fī al-lughah'])
+
+en: (count: ['Ashbāh wa-al-naẓāʼir'])
+
+en: (count: ['Ashbāh wa-al-naẓāʾir'])
+
+en: (count: ['Risālah fī ʻamal kitābihi al-musammá al-Durr al-yatīm fī tashīl ṣināʻat al-taqwīm'])
+
+en: (count: ['Ḍawʼ al-Miṣbāḥ'])
+
+en: (count: ['Behcet ül-fetava maan-nükul'])
+
+en: (count: ['al-Durr al-naẓīm fī tashīl al-taqwīm'])
+
+en: (count: ['Fawz al-aṣghar'])
+
+en: (count: ['Ḥāwī al-Qudsī'])
+
+en: (count: ['Hidāyah'])
+
+en: (count: ['Isʻaf fī Aḥkām al-awqāf'])
+
+en: (count: ['Jawhar al-fākhir'])
+
+en: (count: ['Jawhar al-munaẓẓam min kalām al-nabī al-mukarram'])
+
+en: (count: ['Khamsīn fī uṣūl al-dīn'])
+
+ar-Arab: (count: ['منظومة النسفية في الخلافيات', 'منظومة الخلافيات'])
+
+en: (count: ['al-Lumaʻ al-yasīrah fī ʻilm al-ḥisāb'])
+
+en: (count: ['Mashāʻir'])
+
+en: (count: ['Mashāʻir'])
+
+en: (count: ['Mas̲navī'])
+
+ar-Arab: (count: ['Mas̲navī-i maʻnavī', 'Mas̲navī-i Mawlavī-i maʻnavī'])
+
+en: (count: ['Mas̲navī'])
+
+ar-Arab: (count: ['مثنوى معنوى'])
+
+en: (count: ['Minaḥ al-ilāhīyah bi-sharḥ Dalāʼil al-khayrāt'])
+
+en: (count: ['Mufaṣṣal'])
+
+en: (count: ['Mujlī'])
+
+ar-Arab: (count: ['Taḥqīq madhāhib al-Shīʻah'])
+
+en: (count: ['Mukhtaṣar al-ma‘ānī'])
+
+en: (count: ['Mumtiʻ fī sharḥ al-muqniʻ fī ʻilm al-jabr wa-al-muqābalah'])
+
+en: (count: ['Nuzhat al-ḥussāb fī ʻilm al-ḥisāb'])
+
+en: (count: ['Qāmūs al-muḥīṭ'])
+
+en: (count: ['Qāmūs al-muḥīṭ'])
+
+en: (count: ['Raḥmat al-ummah fī ikhtilāf al-aʼimmah'])
+
+en: (count: ['Sabʻīyāt fī mawā’iẓ al-barīyāt'])
+
+en: (count: ['Shamāʼil'])
+
+en: (count: ['Shamāʼil'])
+
+en: (count: ['Shifāʼ bi-taʻrīf ḥuqūq al-Muṣṭafá'])
+
+en: (count: ['Alfīyat al-ʻIrāqī'])
+
+ar-Arab: (count: ['Maqāṣid al-muhimmah tūḍiḥu min ʻilm al-ḥadīth rasmuh', 'Tabṣirat al-mubtadī tadhkirat al-muntahī'])
+
+en: (count: ['Ṭarīqah al-Muḥammadīyah'])
+
+en: (count: ['Taʻrīfāt'])
+
+en: (count: ['Imlāʼ mā manna bihi al-Raḥmān'])
+
+ar-Arab: (count: ['تبيان في اعراب القرآن'])
+
+en: (count: ['Yanābīʻ fī maʻrifat al-uṣūl wa-al-tafārīʻ'])
+
+ar-Arab: (count: ['كتاب ينابيع', 'ينابيع', 'كتاب الينابيع'])
+
+en: (count: ['Ashraf al-wasāʼil ilá fahm al-Shamāʼil'])
+
+en: (count: ['Būstān'])
+
+en: (count: ['Manāqib al-Imām al-Shāfiʻī'])
+
+en: (count: ['Kitāb al-madkhal fī ʻilm al-nujūm'])
+
+en: (count: ['Adhkār'])
+
+ar-Arab: (count: ['حلية الابرار وشعار الاخبار في الاخيار في تلخيص الدعوات والاذكار المستحبة في الليل والنهار'])
+
+en: (count: ['Ghunyat al-mutamallī fī sharḥ Munyat al-muṣallī'])
+
+ar-Arab: (count: ['جامع الصغير'])
+
+en: (count: ['Jāmiʻ al-ṣaghīr'])
+
+en: (count: ['Kanz al-daqāʼiq'])
+
+en: (count: ['Kifāyat al-mutaḥaffiẓ wa-nihāyat al-mutalaffiẓ fī al-lughah al-ʻArabīyah'])
+
+en: (count: ['Laṭāʼif al-minan'])
+
+en: (count: ['Lisan al-ḥukkām fī maʻrifat al-aḥkām'])
+
+en: (count: ['Majmaʻ al-baḥrayn wa-multaqá al-nayyirayn'])
+
+ar-Arab: (count: ['مجمع البحرين'])
+
+en: (count: ['Manāqib al-Imām al-Shāfiʻī'])
+
+en: (count: ['Maqāmāt'])
+
+en: (count: ['Maṭāliʻ al-anẓār'])
+
+ar-Arab: (count: ['شرح طوالع'])
+
+en: (count: ['Maṭāliʻ al-masarrāt bi-jalāʼ Dalāʼil al-khayrāt'])
+
+en: (count: ['Maʻālim al-tanzīl'])
+
+en: (count: ['Miftāḥ al-maʻīyah'])
+
+en: (count: ['Minhāj al-ʻābidīn'])
+
+en: (count: ['Mishkāt al-anwār'])
+
+en: (count: ['Mīzān al-kubrá'])
+
+en: (count: ['Mukhtaṣar al-nāfiʻ'])
+
+ar-Arab: (count: ['Mūqid al-adhhān wa-mūqiẓ al-wasnān'])
+
+en: (count: ['Naṣīḥat al-muḥibbīn wa-rawḍat al-muwaḥḥidīn'])
+
+en: (count: ['Nuzhat al-qulūb'])
+
+en: (count: ['Būstān'])
+
+en: (count: ['Nuzhat al-ṭālibīn wa-tuḥfat al-rāghibīn'])
+
+en: (count: ['Mukhtaṣar'])
+
+en: (count: ['Ramz al-ḥaqāʼiq fī sharḥ kanz al-daqāʼiq'])
+
+en: (count: ['al-Durr al-manthūr fī al-ʻamal bi-rubʻ al-dastūr'])
+
+en: (count: ['Safīnat al-mulk wa-nafīsat al-fulk'])
+
+en: (count: ['Sharāʼiʻ al-Islām'])
+
+en: (count: ['Sharḥ al-Ishārāt wa-al-tanbīhāt'])
+
+ar-Arab: (count: ['Ḥall mushkilāt Kitāb al-Ishārāt wa-al-tanbīhāt'])
+
+en: (count: ['Tawḍīḥ'])
+
+en: (count: ['ʻUjālah al-sanīyah ʻalá Alfīyat al-sīrah al-Nabawīyah'])
+
+ar-Arab: (count: ['لمحات لمعات المعنوي', 'شرح جزيرة المثنوي', 'شرح جزيره مثنوى'])
+
+en: (count: ['Tawḍīḥ'])
+
+en: (count: ['Ṣurāḥ al-lughah'])
+
+ar-Arab: (count: ['Ṣurāḥ min al-Ṣiḥāḥ'])
+
+en: (count: ['Nahr al-mādd min al-Baḥr al-muḥīṭ'])
+
+en: (count: ['Tajziyat al-amṣār wa-tazjiyat al-Aʻṣār'])
+
+en: (count: ['Tawḍīḥ Fatḥ al-Raʼūf al-mujīb bi-sharḥ Unmūdhaj al-labīb'])
+
+en: (count: ['Zahr al-kimām fī qiṣṣat Sayyidinā Yūsuf ʻalayhi al-salām'])
+
+en: (count: ['Zubdat al-ʻirfān fī wujūh al-Qurʼān'])
+
+en: (count: ['ʻIlm al-yaqīn fī uṣūl al-dīn'])
+
+en: (count: ['ʻUyūn al-madhāhib al-Kāmilī'])
+
+en: (count: ['Guldastah'])
+
+en: (count: ['Gulistān'])
+
+en: (count: ['Gulistān'])
+
+en: (count: ['Gulistān'])
+
+en: (count: ['Gulistān'])
+
+en: (count: ['Gulshan-i Rāz'])
+
+en: (count: ['Husrev ü Şirin'])
+
+en: (count: ['Manṭiq al-ṭayr'])
+
+en: (count: ['Qirān al-saʻdayn'])
+
+ar-Arab: (count: ['رمل دانيال النبى'])
+
+en: (count: ['Rawz̤at al-anvār'])
+
+en: (count: ['Şah u geda'])
+
+en: (count: ['Shāhnāmah'])
+
+en: (count: ['Poems'])
+
+ar-Arab: (count: ['Qaṣāʼid va ghazalīyāt-i afṣaḥ-i fuz̤alā va afz̤al-i fuṣaḥā jāmiʻ-i funūn-i kalāmī-yi Mawlānā ʻAbd al-Raḥmān Jāmī'])
+
+en: (count: ['Works'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Leylâ ile Mecnun'])
+
+ar-Arab: (count: ['مجموعة الشريفة للنابلسي'])
+
+en: (count: ['Wissenschaft der Logik'])
+
+en: (count: ['Ḥikmat al-ishrāq'])
+
+en: (count: ['Khamsah'])
+
+en: (count: ['Maqāmāt'])
+
+ar-Arab: (count: ['Hāẕā Kitāb-i Maqāmāt-i Ḥarīrī'])
+
+en: (count: ['Risālah fī al-rubʻ al-mujayyab'])
+
+en: (count: ['Mas̲navī'])
+
+en: (count: ['Mas̲navī'])
+
+en: (count: ['Mas̲navī'])
+
+en: (count: ['Mas̲navī'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Maṭāliʻ al-suʻūd'])
+
+ar-Arab: (count: ['Talkhīṣ Miftāḥ ghayb al-jamʻ wa-al-wujūd'])
+
+en: (count: ['Khamsah'])
+
+en: (count: ['Mughnī al-labīb ʻan kutub al-aʻārīb'])
+
+en: (count: ['Mukhtaṣar'])
+
+en: (count: ['Vesîletüʼn-necat'])
+
+en: (count: ['Maqāmāt'])
+
+en: (count: ['Minaḥ al-Ghaffār'])
+
+ar-Arab: (count: ['شرح تحفة الملوك'])
+
+en: (count: ['Maʻārij al-nubūwah fī madārij al-futūwah'])
+
+ar-Arab: (count: ['ترجمۀ معارج النبوه'])
+
+ar-Arab: (count: ["Kitab-i Mizanü'l-hak"])
+
+ar-Arab: (count: ['علم الهدى', 'Kitāb ʻIlm al-hudá wa-asrār al-ihtidāʼ fī fahm maʻná sulūk asmāʼ Allāh al-ḥusná'])
+
+en: (count: ['Mughnī al-labīb ʻan kutub al-aʻārīb'])
+
+en: (count: ['Mughrib fī tartīb al-Muʻrib'])
+
+en: (count: ['Muḥāḍarāt al-udabāʼ wa-muḥāwarāt al-shuʻarāʼ wa-al-bulaghāʼ'])
+
+en: (count: ['Maʻārij al-nubūwah fī madārij al-futūwah'])
+
+ar-Arab: (count: ['ترجمۀ معارج النبوه'])
+
+ar-Arab: (count: ['مهمات الفتاوى', 'مهمات المفتي', 'مهمات في فروع'])
+
+en: (count: ['Fatāwá Qāḍī Khān'])
+
+en: (count: ['Tajziyat al-amṣār wa-tazjiyat al-aʻṣār'])
+
+ar-Arab: (count: ['هذا كتاب وصاف'])
+
+en: (count: ['Ikhtiyārāt-i badīʻī'])
+
+en: (count: ['Tabyīn al-ḥaqāʼiq sharḥ Kanz al-daqāʼiq'])
+
+en: (count: ['Fatāwá Qāḍī Khān'])
+
+ar-Arab: (count: ['المختار الفتوا', 'مختار الفتوى'])
+
+ar-Arab: (count: ['كتاب المختار'])
+
+en: (count: ['Ṭabīʻīyāt'])
+
+en: (count: ['Mukhtaṣar al-nāfiʻ'])
+
+ar-Arab: (count: ['كتاب نافع'])
+
+en: (count: ['Adwār'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+en: (count: ['Poems'])
+
+ar-Arab: (count: ['شرح الازهار في فقه الائمة الاطهار'])
+
+en: (count: ['Ṭirāz al-manqūsh fī maḥāsin al-Ḥubūsh'])
+
+en: (count: ['Jāmiʻ al-ṣaḥīḥ'])
+
+en: (count: ['Muṭawwal'])
+
+en: (count: ['Rawz̤at al-ṣafāʼ'])
+
+ar-Arab: (count: ['حوض الحيات', 'حوض الحيوات'])
+
+ar-Arab: (count: ['شرح ماتقى الابحر'])
+
+ar-Arab: (count: ['طبقات الصوفية'])
+
+en: (count: ['Qiṣaṣ al-anbiyāʾ'])
+
+en: (count: ['Natā’ij al-fikr'])
+
+en: (count: ['Abū Muslimʻnāmah'])
+
+ar-Arab: (count: ['قصه ابو مسلم مروزی'])
+
+en: (count: ['Lumʻat al-badr'])
+
+en: (count: ['Futūḥ al-mujāhidīn li-tarwīḥ qulūb al-mushāhidīn'])
+
+ar-Arab: (count: ["Futûhu'l-müşâhidîn li-tervihi kulûbi'l-mücâhidîn", 'فتوح المشاهدين لترويح قلوب المجاهدين'])
+
+en: (count: ['Khulāṣat al-fatāwá'])
+
+en: (count: ['Jāmiʻ al-ṣaḥīḥ'])
+
+ar-Arab: (count: ['الصحيح البخاري'])
+
+en: (count: ['Kashshāf'])
+
+en: (count: ['Tafsīr al-Jalālayn'])
+
+en: (count: ['Nukat ʻalá al-Alfīyah wa-al-Kāfiyah wa-al-Shāfiyah wa-al-Shudhūr wa-al-Nuzhah'])
+
+ar-Arab: (count: ['نكت'])
+
+ar-Arab: (count: ['نزح الشين', 'كشف الدين'])
+
+en: (count: ['Sharḥ al-mulakhkhaṣ'])
+
+en: (count: ['Tanbīh al-anām fī bayān ʻulūw maqām nabīyinā ʻalayhi al-salām'])
+
+ar-Arab: (count: ['شفاء الاسقام ومحو الاثام في الصلاة على خير الانام'])
+
+en: (count: ['Qānūnchah'])
+
+en: (count: ['Poems'])
+
+en: (count: ['Qaṣīdah Ghaus̲iyah'])
+
+ar-Arab: (count: ['Qaṣīdat Mawālī yā mawālī yā mawālī'])
+
+en: (count: ['Rawḍat al-ṭālibīn wa-ʻumdat al-sālikīn'])
+
+en: (count: ['Asfār al-arbaʻah fī al-ḥikmah'])
+
+en: (count: ['Dīwān'])
+
+en: (count: ['Qunyat al-Munyah li-tatmīm al-ghunyah'])
+
+ar-Arab: (count: ['قنية الفتاوى'])
+
+ar-Arab: (count: ['شرح رسالة البسملة'])
+
+en: (count: ['Dāʻī ilá ashraf al-masāʻī'])
+
+en: (count: ['Correspondence'])
+
+ar-Arab: (count: ['Musawwadat Kitāb Rawḍat al-ghuzāh'])
+
+ar-Arab: (count: ['قواعد العقائد'])
+
+en: (count: ['Kitāb ṣināʻat al-aṣṭurlāb bi-al-burhān'])
+
+en: (count: ['Risālah fī al-ʻamal bi-rubʻ al-dāʾirah al-mawḍūʻ fīhi juyūb'])
+
+en: (count: ['Risālah mushtamilah ʻalá qawāʻid ḥisābīyah wa-aʻmāl handasīyah fī al-ʻamal bi-rubʻ al-juyūb'])
+
+en: (count: ['Fawāʾid sharīfah wa-taḥqīqāt munīfah intajabtuhā min al-muṭawwalāt fīmā yataʻallaq bi-khuṣūṣ al-munḥarifāt'])
+
+en: (count: ['Risālah fī al-ʻamal bi-rubʻay al-jayb wa-al-muqanṭarāt'])
+
+en: (count: ['Fawāʾid sharīfah wa-taḥqīqāt munīfah intajabtuhā min al-muṭawwalāt fīmā yataʻallaq bi-khuṣūṣ al-munḥarifāt'])
+
+en: (count: ['Risālah-i Muʻīnīyah'])
+
+ar-Arab: (count: ['رساله معینیه در علم هیئت', 'مفيد در هيئت'])
+
+en: (count: ['Risālah-i Ḥaqqīyah'])
+
+en: (count: ['Mashāʻir'])
+
+ar-Arab: (count: ['Hādhihi hiya al-Risālah al-mawsūmah bi-al-ʻArshīyah'])
+
+en: (count: ['Khulāṣat al-ḥisāb'])
+
+en: (count: ['Zād al-musāfir li-maʻrifat rasm faḍl al-dāʾir'])
+
+en: (count: ['Mawāʻiẓ wa-al-iʻtibār fī dhikr al-khiṭaṭ wa-al-āthār'])
+
+en: (count: ['Kashshāf'])
+
+ar-Arab: (count: ['جزء الثالث من الكشاف'])
+
+en: (count: ['Maʻālim al-tanzīl'])
+
+ar-Arab: (count: ['وقايع حيدرآباد', 'وقایع نعمت خان عالی'])
+
+ar-Arab: (count: ['ذخيرة العقبى شرح صدر الشريعة', 'اخي چلبي على صدر الشريعة'])
+
+en: (count: ['Jāmiʻ al-ṣaḥīḥ'])
+
+en: (count: ['Ḥāshīyat Sayf al-Dīn ʻalá al-ʻAḍudīyah'])
+
+en: (count: ['Maḥbūb al-qulūb'])
+
+en: (count: ['Farāʼiḍ al-Sharīfīyah'])
+
+en: (count: ['Sharḥ Miftāḥ al-ʻulūm'])
+
+en: (count: ['Sharḥ al-qism al-thālith min Miftāḥ al-ʻulūm'])
+
+ar-Arab: (count: ['Sharḥ al-Muʻallaqāt al-sabʻ'])
+
+ar-Arab: (count: ['شرح القدوري للاقطع', 'الجلد الثاني من شرح القدوري للاقطع'])
+
+ar-Arab: (count: ['رضي على الشافية'])
+
+en: (count: ['Barzakh'])
+
+ar-Arab: (count: ['نزح الشين', 'كشف الدين', 'نور العين'])
+
+en: (count: ['Sharḥ al-ʻAqāʼid al-Nasafīyah'])
+
+en: (count: ['Poems'])
+
+ar-Arab: (count: ['شرح الاسماء الحسنى'])
+
+ar-Arab: (count: ['Mujallī'])
+
+ar-Arab: (count: ['Maṭlaʻ khuṣūṣ al-kilam fī maʻānī Fuṣūṣ al-ḥikam'])
+
+en: (count: ['Shawākil al-ḥūr'])
+
+en: (count: ['Sharḥ al-mulakhkhaṣ'])
+
+ar-Arab: (count: ['نبذة في الكلام على خطبة مختصر الشيخ خليل'])
+
+en: (count: ['Kalīlah wa Dimnah'])
+
+ar-Arab: (count: ['Sharḥ Mukhtaṣar al-uṣūl'])
+
+en: (count: ['Tamām al-mutūn fī sharḥ Risālat ibn Zaydūn'])
+
+en: (count: ['Khulāṣat al-masāʾil fī sharḥ hidāyat al-sāʾil'])
+
+en: (count: ['Sharḥ al-risālah al-fatḥīyah'])
+
+ar-Arab: (count: ['شرح المراح'])
+
+en: (count: ['Sharḥ al-Unmūdhaj fī al-naḥw'])
+
+en: (count: ['Ghāyat al-suʾl fī sharḥ al-ʻasharah fuṣūl'])
+
+ar-Arab: (count: ['Risālah-ʼi Ḥawrāʼīyah'])
+
+en: (count: ['Ḥirz al-amānī wa-wajh al-tahānī'])
+
+en: (count: ['Shifāʼ bi-taʻrīf ḥuqūq al-Muṣṭafá'])
+
+en: (count: ['Asfār al-arbaʻah fī al-ḥikmah'])
+
+ar-Arab: (count: ['S̲amarāt al-ʻushshāq'])
+
+en: (count: ['Iskandarnāmah'])
+
+ar-Arab: (count: ['Iskandarʻnāmah'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['al-Nashr al-muṭayyab fī al-ʻamal bi-al-rubʻ al-mujayyab'])
+
+ar-Arab: (count: ["Dürretü't-tac fî sîret Sâhibi'l-mirâc"])
+
+en: (count: ['Siyer-i Veysî'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['Haft awrang'])
+
+en: (count: ['Tac-üt-tevarih'])
+
+ar-Arab: (count: ['Tāj al-tawārīkh fī al-dawlah al-ʻUthmānīyah'])
+
+en: (count: ['Wajīz'])
+
+en: (count: ['Dīvān'])
+
+ar-Arab: (count: ['Lisān al-ghayb'])
+
+en: (count: ['Mafātīḥ al-ghayb'])
+
+ar-Arab: (count: ['كتاب طهارة القلوب والخشوع لعلام الغيوب'])
+
+ar-Arab: (count: ['تحرير الطرق والروايات من طريق طيبة النشر في القراءات العشر'])
+
+en: (count: ['Sharḥ Shamsīyah'])
+
+ar-Arab: (count: ['تلخيص السماع الطبيعي'])
+
+ar-Arab: (count: ['Kitāb al-Ṭahārah wa-al-tahdhīb'])
+
+ar-Arab: (count: ['حاشية اشباه يعني تنوير البصائر', 'كتاب تنوير البصائر حاشية الاشباه والنظائر', 'غزي على الاشباه والنظائر'])
+
+en: (count: ['Handbook of the history of philosophy'])
+
+en: (count: ['Tashīl al-fawāʼid wa-takmīl al-maqāṣid'])
+
+en: (count: ['Tawḍīḥ maqāṣid al-Alfīyah'])
+
+en: (count: ['Tawḍīḥ fī ḥall ghawāmiḍ al-Tanqīḥ'])
+
+en: (count: ['Mumtiʻ fī sharḥ rajaz al-muqniʻ fī ʻilm Abī Miqraʻ'])
+
+ar-Arab: (count: ['وانى على الدرر'])
+
+en: (count: ['Ashjār va as̲mār'])
+
+ar-Arab: (count: ['Ashjār wa-al-athmār'])
+
+en: (count: ["Şerh-i Delaili'l-hayrât"])
+
+ar-Arab: (count: ['كليات افصح المتكلمين كمال الدين اسماعيل اصفهانى'])
+
+ar-Arab: (count: ['بيان ثواب كلمة التوحيد فضائل الاعمال'])
+
+ar-Arab: (count: ['Uthūlūjiyā', 'Thuyūlūjiyā Arīsṭū', 'Hādhā Kitāb Uthūlūjiyā fī al-fann al-rubūbī min funūn Mā baʻda al-ṭabīʻah'])
+
+458 of 1039 records have the cho_alternative value

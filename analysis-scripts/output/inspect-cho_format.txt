@@ -1,0 +1,2079 @@
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+en: (count: ['Book', 'Manuscript/Archive', 'Online', 'Print'])
+
+1039 of 1039 records have the cho_format value

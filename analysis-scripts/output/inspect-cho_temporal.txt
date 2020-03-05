@@ -1,0 +1,537 @@
+en: (count: ['Ottoman Empire, 1288-1918'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['16th century'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1258-1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1500-1796', '747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1258-1800'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['15th century'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['750-1258'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['750-1258'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['16th century'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['640-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['19th century', 'Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1526-1765'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Mahmud II, 1808-1839', 'Iran: Qajar dynasty, 1794-1925', 'Turkey: Ottoman Empire, 1288-1918', '19th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1258-1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Ottoman Empire, 1288-1918'])
+
+en: (count: ['To 640'])
+
+en: (count: ['1256-1500', '1258-1517'])
+
+en: (count: ['1256-1500', '1258-1517'])
+
+en: (count: ['750-1258', '661-750'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['12th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['12th century'])
+
+en: (count: ['13th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['19th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['640-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1258-1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1800', '1000-1526'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['16th century'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['1258-1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['750-1248'])
+
+en: (count: ['16th century'])
+
+en: (count: ['640-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796', '747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['17th century', 'Iran: Ṣafavid dynasty, 1501-1736'])
+
+en: (count: ['19th century'])
+
+en: (count: ['13th century'])
+
+en: (count: ['1258-1800', '622-750', '750-1258'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['19th century', 'Iran: Qajar dynasty, 1794-1925'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['19th century', 'Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['640-1500'])
+
+en: (count: ['1526-1765'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['13th century'])
+
+en: (count: ['13th century'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918', 'Byzantine Empire: Constantine XI Dragases, 1448-1453'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['622-750'])
+
+en: (count: ['622-750'])
+
+en: (count: ['18th century', 'Turkey: Mahmud I, 1730-1754'])
+
+en: (count: ['18th century', 'Turkey: Mahmud I, 1730-1754'])
+
+en: (count: ['19th century', '1683-1829', 'Turkey: Mahmud II, 1808-1839'])
+
+en: (count: ['750-1258', '640-1256'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['622-661'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['12th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['750-1258'])
+
+en: (count: ['19th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['To 1258'])
+
+en: (count: ['17th century', 'Turkey: Mehmed IV, 1648-1687', 'Hungary: Turkish occupation, 1526-1699'])
+
+en: (count: ['Turkey: Ahmed I, 1603-1617'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1516-1830'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['1500-1796', 'Golconda (India): Siege, 1687'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['To 622'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['17th century', '15th century'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['622-750'])
+
+en: (count: ['622-750'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['15th century'])
+
+en: (count: ['18th century'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['1453-1683', '1288-1453'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918', '1453-1683'])
+
+en: (count: ['Turkey: Mahmud I, 1730-1754'])
+
+en: (count: ['1500-1796'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['747-1500'])
+
+en: (count: ['Turkey: Ottoman Empire, 1288-1918'])
+
+en: (count: ['Early works to 1800'])
+
+en: (count: ['Early works to 1800'])
+
+268 of 1039 records have the cho_temporal value
